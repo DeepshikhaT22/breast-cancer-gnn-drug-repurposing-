@@ -1,23 +1,22 @@
-# breast-cancer-gnn-drug-repurposing-
-# Breast Cancer Subtype-Specific Drug Repurposing with Heterogeneous Graph Neural Networks
+# Breast Cancer Subtype‑Specific Drug Repurposing with Heterogeneous Graph Neural Networks
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.XXXXXXX.svg)](https://doi.org/10.5281/zenodo.XXXXXXX) (add after publication)  
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
 This repository contains the code and data for our paper:  
 **"A Heterogeneous Graph Neural Network Framework for Subtype-Specific Drug Efficacy Prediction in Breast Cancer"**  
 Deepshikha Tripathi, Dr. Perugu Shyam
 
-We integrate multi-omics data (gene expression, copy number variation, mutation) from breast cancer cell lines with protein-protein interactions, pathway annotations, and drug-target associations to build a heterogeneous graph. A corrected NeoDTI model (with mean aggregation and layer normalization) predicts drug efficacy and identifies subtype-specific drug candidates, with a focus on triple-negative breast cancer (TNBC).
+We integrate multi‑omics data (gene expression, copy number variation, mutation) from breast cancer cell lines with protein‑protein interactions, pathway annotations, and drug‑target associations to build a heterogeneous graph. A corrected NeoDTI model (with mean aggregation and layer normalization) predicts drug efficacy and identifies subtype‑specific drug candidates, with a focus on triple‑negative breast cancer (TNBC).
 
 ## Table of Contents
 - [Overview](#overview)
+- [Interactive Web App](#interactive-web-app)
 - [Repository Structure](#repository-structure)
 - [Requirements](#requirements)
 - [Installation](#installation)
 - [Data](#data)
 - [Usage](#usage)
-  - [Data Preprocessing](#data-preprocessing)
-  - [Graph Construction](#graph-construction)
-  - [Model Training](#model-training)
-  - [Evaluation and Analysis](#evaluation-and-analysis)
 - [Results](#results)
 - [Reproducing the Paper](#reproducing-the-paper)
 - [License](#license)
@@ -35,32 +34,22 @@ We trained two GNN models:
 - **RGCN** (Relational Graph Convolutional Network)
 - **Corrected NeoDTI** (with mean aggregation and layer norm)
 
-The best model (NeoDTI) achieves test ROC-AUC 0.767 and Precision@10 0.9. It identifies globally effective drugs (e.g., exatecan-mesylate, torin 2) and, importantly, uncovers TNBC-preferential drugs targeting ion channels and GPCRs—validated by pathway enrichment and literature.
+The best model (NeoDTI) achieves test ROC‑AUC 0.767 and Precision@10 0.9. It identifies globally effective drugs (e.g., exatecan‑mesylate, torin 2) and, importantly, uncovers TNBC‑preferential drugs targeting ion channels and GPCRs – validated by pathway enrichment and literature.
 
-## Repository Structure
+## Interactive Web App
 
-breast-cancer-gnn-drug-repurposing/
-├── README.md
-├── LICENSE
-├── requirements.txt
-├── environment.yml
-├── .gitignore
-├── data/
-│ ├── processed/ # Small processed files (node mappings, drug lists)
-│ └── raw/ # Instructions to download raw data
-├── notebooks/
-│ ├── 01_data_preprocessing.ipynb
-│ ├── 02_graph_construction.ipynb
-│ ├── 03_neodti_training.ipynb
-│ ├── 04_rgcn_training.ipynb
-│ ├── 05_analysis_and_figures.ipynb
-├── src/
-│ ├── models.py
-│ ├── data_utils.py
-│ ├── graph_utils.py
-│ └── train_utils.py
-├── results/
-│ ├── figures/ # All publication figures
-│ ├── tables/ # Result tables (CSV)
-│ └── models/ # Trained model weights (optional)
-└── docs/ # Additional documentation
+A **Streamlit web application** is available to explore the model predictions interactively:
+
+- **Explore by Subtype** – View top‑N drugs for HER2, Luminal, and TNBC, filter by target class, and download full rankings.
+- **Search by Gene** – Find all drugs targeting a specific gene, with predicted scores per subtype.
+- **Compare Drugs** – Compare two drugs side by side with bar charts, shared target genes, and common pathways.
+- **Visualize Drug Network** – Interactive network of a drug, its target genes, and associated pathways.
+- **Predict for New Cell Line** – Upload a CSV with expression Z‑scores, CNV log2 ratios, and mutation status to get predicted drug rankings for a custom cell line.
+
+### Run the app locally
+
+1. **Clone this repository**.
+2. **Create a conda environment** (recommended) or use a virtual environment with Python 3.9+.
+3. **Install dependencies**:
+   ```bash
+   pip install -r requirements.txt
