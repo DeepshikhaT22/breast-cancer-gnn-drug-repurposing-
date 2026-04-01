@@ -1,25 +1,16 @@
 name: bcancer-gnn
 channels:
-  - pytorch
-  - pyg
   - conda-forge
   - defaults
 dependencies:
   - python=3.9
-  - pytorch=2.0.1
-  - pyg=2.3.0
-  - numpy
-  - pandas
-  - scikit-learn
-  - matplotlib
-  - seaborn
-  - umap-learn
-  - networkx
-  - tqdm
-  - jupyter
   - pip
   - pip:
-    - torch-scatter
     - streamlit
+    - pandas
+    - numpy
+    - networkx
     - plotly
+    - torch==2.0.1
+    - torch-scatter
     - kaleido
