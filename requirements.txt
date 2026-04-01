@@ -1,8 +1,0 @@
-streamlit
-pandas
-numpy
-networkx
-plotly
-torch==2.0.1
-kaleido
-"torch-scatter" 
