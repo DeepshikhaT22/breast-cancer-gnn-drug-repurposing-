@@ -3,6 +3,6 @@ pandas
 numpy
 networkx
 plotly
-torch
-torch-scatter
+torch==2.0.1
+torch-scatter==2.1.0
 kaleido
