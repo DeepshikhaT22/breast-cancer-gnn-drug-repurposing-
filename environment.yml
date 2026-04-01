@@ -1,0 +1,19 @@
+name: bcancer-gnn
+channels:
+  - conda-forge
+  - pytorch
+  - defaults
+dependencies:
+  - python=3.9
+  - pytorch=2.0.1
+  - cpuonly
+  - torch-scatter
+  - networkx
+  - plotly
+  - pandas
+  - numpy
+  - streamlit
+  - kaleido
+  - pip
+  - pip:
+    - torch-scatter  # sometimes still needed via pip if conda fails

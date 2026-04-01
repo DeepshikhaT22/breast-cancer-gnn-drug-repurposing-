@@ -8,9 +8,25 @@ import plotly.express as px
 import torch
 import torch.nn as nn
 import torch.nn.functional as F
-from torch_scatter import scatter_mean
 import io
 import json
+
+def scatter_mean(src, index, dim_size):
+    """
+    src: tensor of shape [num_edges, hidden_dim]
+    index: tensor of shape [num_edges] (destination node indices)
+    dim_size: number of destination nodes
+    Returns: tensor of shape [dim_size, hidden_dim] where each node gets the mean of messages from its neighbors
+    """
+    # Sum messages per destination
+    sum_ = torch.zeros(dim_size, src.size(1), device=src.device)
+    sum_ = sum_.scatter_add(0, index.unsqueeze(1).expand_as(src), src)
+    # Count number of messages per destination
+    count = torch.zeros(dim_size, device=src.device)
+    count = count.scatter_add(0, index, torch.ones_like(index, dtype=src.dtype))
+    # Avoid division by zero
+    count = count.clamp(min=1)
+    return sum_ / count.unsqueeze(1)
 
 # -------------------------------------------------------------------
 # Corrected NeoDTI model definition
