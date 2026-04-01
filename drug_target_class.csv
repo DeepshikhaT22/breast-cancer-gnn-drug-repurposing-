@@ -1,0 +1,4595 @@
+drug_name,target_class
+(5z)-7-oxozeaenol,Unknown
+(r)-(-)-apomorphine,Signal Transduction
+(r)-(-)-rolipram,Signal Transduction
+(r)-baclofen,Neurotransmitter receptors and postsynaptic signal transmission
+(s)-(+)-rolipram,Opioid Signalling
+"1,4-butanediol",Metabolism
+1-azakenpaullone,Generic Transcription Pathway
+1-deoxymannojirimycin,Disease
+1-ebio,Neuronal System
+1-naphthyl-pp1,Hemostasis
+1-octanol,Gap junction trafficking and regulation
+1-phenylbiguanide,Neurotransmitter receptors and postsynaptic signal transmission
+10-debc,Antimicrobial mechanism of IFN-stimulated genes
+10-hydroxycamptothecin,SUMOylation
+12-o-tetradecanoylphorbol-13-acetate,Stimuli-sensing channels
+1400w,Hemostasis
+"16,16-dimethylprostaglandin-e2",Metabolism
+17-alpha-methyltestosterone,Signal Transduction
+17-hydroxyprogesterone-caproate,Generic Transcription Pathway
+"1s,2r-phenylpropanolamine",Signal Transduction
+2'-meccpa,Signal Transduction
+"2,3-dcpe",Apoptosis
+"2,4-dinitrophenol",Hemostasis
+2-(3-mercaptopropyl)pentanedioic acid,Metabolism
+2-(3-mercaptopropyl)pentanedioic-acid,Metabolism
+2-[1-(4-piperonyl)piperazinyl]benzothiazole,Signal Transduction
+2-aminobenzenesulfonamide,Metabolism
+2-bfi,Metabolism
+2-chloro-n6-cyclopentyladenosine,Signal Transduction
+2-chloroadenosine,Signal Transduction
+2-cmdo,Signal Transduction
+2-deoxyglucose,Cellular hexose transport
+2-fluoro-2-deoxy-d-galactose,Disease
+2-hydroxyflutamide,Signal Transduction
+2-hydroxysaclofen,Neurotransmitter receptors and postsynaptic signal transmission
+2-iminobiotin,Hemostasis
+2-iodomelatonin,Signal Transduction
+2-methoxyestradiol,Metabolism
+2-methyl-5-hydroxytryptamine,Signal Transduction
+2-oleoylglycerol,Peptide hormone metabolism
+2-oxoglutaric-acid,Signal Transduction
+2-phenylmelatonin,Signal Transduction
+2-pmdq,Signal Transduction
+2-pyridylethylamine,Signal Transduction
+2-tedc,Metabolism
+3'-fluorobenzylspiperone,Signal Transduction
+"3,3'-dichlorobenzaldazine",Neuronal System
+"3,3'-diindolylmethane",Immune System
+"3,4-methylenedioxy-beta-nitrostyrene",Hemostasis
+"3,5-dhpg-(s)",Neuronal System
+3-alpha-bis-(4-fluorophenyl)-methoxytropane,Transport of small molecules
+3-alpha-hydroxy-5-beta-androstan-17-one,Metabolism
+3-amino-benzamide,POLB-Dependent Long Patch Base Excision Repair
+3-aqc,Neurotransmitter receptors and postsynaptic signal transmission
+3-bromo-7-nitroindazole,Hemostasis
+3-bromopyruvate,Metabolism
+3-carboxy-4-hydroxyphenylglycine-(r),Neurotransmitter receptors and postsynaptic signal transmission
+3-carboxy-4-hydroxyphenylglycine-(s),Neuronal System
+3-deazaadenosine,Metabolism
+3-deazaneplanocin-a,PIP3 activates AKT signaling
+3-indolebutyric-acid,ER-Phagosome pathway
+3-matida,Neuronal System
+3-methyl-gaba,Neurotransmitter release cycle
+3-methyladenine,Developmental Biology
+3-mppi,Signal Transduction
+3po,Metabolism
+"4,5,6,7-tetrabromobenzotriazole",Signal Transduction
+4-(4-fluorobenzoyl)-1-(4-phenylbutyl)-piperidine,Signal Transduction
+4-aminohippuric-acid,Transport of small molecules
+4-chlorophenylguanidine,Hemostasis
+4-cmtb,Signal Transduction
+4-damp,Signal Transduction
+4-galactosyllactose,Digestion of dietary carbohydrate
+4-hqn,POLB-Dependent Long Patch Base Excision Repair
+4-ibp,Disease
+4-iodo-6-phenylpyrimidine,Hemostasis
+4-iodo-l-phenylalanine,Peptide hormone metabolism
+4-methylgenistein,Metabolism
+4-methylhistamine,Signal Transduction
+4-mu-8c,Cellular responses to stress
+4-p-pdot,Signal Transduction
+4-ppbp,Disease
+4bp-tqs,Neurotransmitter receptors and postsynaptic signal transmission
+4e1rcat,ISG15 antiviral mechanism
+4sc-202,Hemostasis
+5'-chloro-5'-deoxy-enba-(+/-),Signal Transduction
+"5,7-dichlorokynurenic-acid",Neurotransmitter receptors and postsynaptic signal transmission
+"5-amino-3-d-ribofuranosylthiazolo[4,5-d]pyrimidin-2,7(3h,6h)-dione",Disease
+5-aminolevulinic-acid,Metabolism
+5-azacytidine,Unknown
+5-bdbd,Hemostasis
+5-carboxamidotryptamine,Signal Transduction
+5-fluorouracil,Metabolism
+5-hydroxymethyl-tolterodine,Metabolism
+5-hydroxytryptophan,Amino acid transport across the plasma membrane
+5-methylfurmethiodide,Signal Transduction
+6-chloromelatonin,Signal Transduction
+6-iodo-nordihydrocapsaicin,Stimuli-sensing channels
+7-chlorokynurenic-acid,Neurotransmitter receptors and postsynaptic signal transmission
+7-hydroxy-dpat,Signal Transduction
+7-hydroxystaurosporine,Signal Transduction
+7-methoxytacrine,Neurotransmitter clearance
+7-nitroindazole,Hemostasis
+8-bromo-cgmp,Hemostasis
+8-hydroxy-dpat,Signal Transduction
+8-hydroxy-pipat,Signal Transduction
+8-m-pdot,Signal Transduction
+9-aminocamptothecin,SUMOylation
+9-anthracenecarboxylic-acid,Stimuli-sensing channels
+965-d2,Spry regulation of FGF signaling
+993-d2,Spry regulation of FGF signaling
+a-1070722,Maturation of nucleoprotein
+a-1120,Metabolism
+a-317491,Hemostasis
+a-366,Epigenetic regulation of gene expression
+a-412997,Signal Transduction
+a-438079,Hemostasis
+a-443654,Apoptosis
+a-582941,Neurotransmitter receptors and postsynaptic signal transmission
+a-61603,Signal Transduction
+a-674563,Hemostasis
+a-770041,Hemostasis
+a-784168,Stimuli-sensing channels
+a-803467,Developmental Biology
+a-804598,Hemostasis
+a-83-01,Unknown
+a-839977,Hemostasis
+a-867744,Neurotransmitter receptors and postsynaptic signal transmission
+a-887826,Developmental Biology
+a-922500,Metabolism
+a-939572,Metabolism
+a-967079,Stimuli-sensing channels
+a-987306,Signal Transduction
+a12b4c3,APEX1-Independent Resolution of AP Sites via the Single Nucleotide Replacement Pathway
+a205804,Cytokine Signaling in Immune system
+a61603,Signal Transduction
+a66,Hemostasis
+a740003,Hemostasis
+a77636,Unknown
+a922500,Metabolism
+abametapir,Developmental Biology
+abarelix,Signal Transduction
+abc-294640,Metabolism
+abemaciclib,Cell Cycle
+abiraterone,Metabolism
+abiraterone-acetate,Metabolism
+abt-239,Signal Transduction
+abt-491,Cytokine Signaling in Immune system
+abt-639,Developmental Biology
+abt-702,Metabolism
+abt-724,Signal Transduction
+abt-737,Apoptosis
+abt-751,Cell Cycle
+abt737,Apoptosis
+ac-186,PIP3 activates AKT signaling
+ac-261066,Developmental Biology
+ac-264613,Signal Transduction
+ac-55541,POLB-Dependent Long Patch Base Excision Repair
+ac-55649,Developmental Biology
+ac-710,PIP3 activates AKT signaling
+ac-7954-(+/-),Signal Transduction
+acalabrutinib,ER-Phagosome pathway
+acalisib,PIP3 activates AKT signaling
+acamprosate,Neuronal System
+acarbose,Digestion of dietary carbohydrate
+acdpp,Neuronal System
+acebutolol,Signal Transduction
+acecainide,Developmental Biology
+aceclidine,Signal Transduction
+aceclofenac,Cytokine Signaling in Immune system
+acefylline,Signal Transduction
+acemetacin,Metabolism
+aceneuramic-acid,Immune System
+acenocoumarol,Metabolism
+acepromazine,Signal Transduction
+acetazolamide,Metabolism
+acetohexamide,Neuronal System
+acetohydroxamic-acid,Collagen degradation
+acetophenazine,Signal Transduction
+acetyl-11-keto-beta-boswellic-acid,Metabolism
+acetyl-farnesyl-cysteine,PIP3 activates AKT signaling
+acetylcholine,Signal Transduction
+acetylcysteine,Signal Transduction
+acexamic-acid,Signal Transduction
+acifran,Signal Transduction
+acipimox,Signal Transduction
+acitretin,Signal Transduction
+acivicin,Metabolism
+aclidinium,Signal Transduction
+acrivastine,Signal Transduction
+act-132577,Signal Transduction
+act-462206,Signal Transduction
+actb-1003,Signal Transduction
+acy-1215,Signaling by NOTCH
+acyclovir,Metabolism
+ad-5467,Metabolism
+adapalene,Signal Transduction
+adaprev,Metabolism
+adaptavir,Cytokine Signaling in Immune system
+adarotene,Developmental Biology
+adatanserin,Signal Transduction
+adenine,Metabolism
+adenosine,Signal Transduction
+adenosine-phosphate,Metabolism
+adenosine-triphosphate,Signal Transduction
+adiphenine,Neurotransmitter receptors and postsynaptic signal transmission
+adipic-acid,Transport of small molecules
+adiporon,Metabolism
+adl5859,Cytokine Signaling in Immune system
+adoprazine,Signal Transduction
+adrenalone,Signal Transduction
+adrenosterone,Metabolism
+adx-10059,Neuronal System
+adx-47273,Neuronal System
+aee788,Signal Transduction
+af38469,Membrane Trafficking
+afalanine,Signal Transduction
+afatinib,Signaling by ERBB2
+afuresertib,Apoptosis
+ag-1024,Signal Transduction
+ag-14361,POLB-Dependent Long Patch Base Excision Repair
+ag-490,Signal Transduction
+agi-5198,Metabolism
+agi-6780,Aerobic respiration and respiratory electron transport
+agk2,Epigenetic regulation of gene expression
+agmatine,Neuronal System
+agn-192403,Signal Transduction
+agn-194310,Signal Transduction
+agn-195183,Developmental Biology
+agomelatine,Signal Transduction
+ah-7614,Signal Transduction
+ah11110,Signal Transduction
+ah6809,Signal Transduction
+ai-10-49,Developmental Biology
+aica ribonucleotide,Unknown
+aim-100,Signal Transduction
+aj76-(+),Signal Transduction
+ajmaline,Developmental Biology
+ak-7,Cell Cycle
+akba,Cytokine Signaling in Immune system
+akt inhibitor viii,Apoptosis
+al-8697,Hemostasis
+alacepril,Metabolism of Angiotensinogen to Angiotensins
+alantolactone,Interleukin-6 signaling
+alaproclate,Neurotransmitter clearance
+alarelin,Signal Transduction
+albendazole,Cell Cycle
+albuterol,Signal Transduction
+alcaftadine,Signal Transduction
+alclofenac,COX reactions
+alclometasone-dipropionate,Metabolism
+alcuronium,Signal Transduction
+alda-1,Neurotransmitter clearance
+alectinib,Signal Transduction
+alendronate,Signal Transduction
+alexidine,Metabolism
+alfacalcidol,Metabolism
+alfaxalone,Neurotransmitter receptors and postsynaptic signal transmission
+alfuzosin,Signal Transduction
+alimemazine,Signal Transduction
+alisertib,Cell Cycle
+aliskiren-hemifumarate,Metabolism of Angiotensinogen to Angiotensins
+alizapride,Signal Transduction
+allicin,Stimuli-sensing channels
+allopurinol,Adaptive Immune System
+allylisothiocyanate,Stimuli-sensing channels
+almitrine,Disease
+almorexant,Signal Transduction
+almotriptan,Signal Transduction
+aloe-emodin,Apoptosis
+alogliptin,Peptide hormone metabolism
+alosetron,Neurotransmitter receptors and postsynaptic signal transmission
+aloxistatin,Cytokine Signaling in Immune system
+alpelisib,PIP3 activates AKT signaling
+alpha-asarone,Developmental Biology
+alpha-linolenic-acid,Metabolism
+alpha-lipoic acid,Unknown
+alpha-methylhistamine-dihydrobromide-(r)-(-),Signal Transduction
+alpha-methylhistamine-dihydrobromide-(s)-(+),Signal Transduction
+alpha-methylserotonin,Signal Transduction
+alpidem,Neurotransmitter receptors and postsynaptic signal transmission
+alprenolol,Signal Transduction
+alprostadil,Signal Transduction
+alrestatin,Metabolism
+altanserin,Signal Transduction
+altinicline,Neurotransmitter receptors and postsynaptic signal transmission
+altiratinib,Signal Transduction
+altrenogest,Signaling by ERBB4
+alverine,Signal Transduction
+alvespimycin,Signaling by ERBB2
+alvimopan,Signal Transduction
+alvocidib,Generic Transcription Pathway
+alx-5407,Transport of small molecules
+am-1241,Signal Transduction
+am-24,Cytokine Signaling in Immune system
+am-251,Signal Transduction
+am-281,Signal Transduction
+am-404,Signal Transduction
+am-580,Developmental Biology
+am-630,Signal Transduction
+am-92016,Neurotransmitter receptors and postsynaptic signal transmission
+am095,Signal Transduction
+am679,Signal Transduction
+amantadine,Neurotransmitter receptors and postsynaptic signal transmission
+ambenonium,Neurotransmitter clearance
+ambrisentan,Signal Transduction
+ambroxol,Metabolism
+amcinonide,Signal Transduction
+amd-3465,Developmental Biology
+amd11070,Signal Transduction
+amezinium,Signal Transduction
+amfenac,Metabolism
+amfepramone,Disease
+amflutizole,Adaptive Immune System
+amg-208,PIP3 activates AKT signaling
+amg-232,Neurotransmitter receptors and postsynaptic signal transmission
+amg-319,Unknown
+amg-337,PIP3 activates AKT signaling
+amg-487-(+/-),Developmental Biology
+amg-517,Stimuli-sensing channels
+amg-548,Signal Transduction
+amg-837,Metabolism
+amg-925,Disease
+amg-9810,Stimuli-sensing channels
+amg-perk-44,Cellular responses to stress
+amg319,PIP3 activates AKT signaling
+amg458,PIP3 activates AKT signaling
+amg900,Cell Cycle
+ami-1,Signal Transduction
+amibegron,Signal Transduction
+amifostine,Metabolism
+amiloride,Transport of small molecules
+amineptine,Transport of small molecules
+aminocaproic-acid,Hemostasis
+aminoglutethimide,Metabolism
+aminoguanidine,Hemostasis
+aminomethyltransferase,Hemostasis
+aminopentamide,Signal Transduction
+aminophylline,Signal Transduction
+aminopurvalanol-a,Generic Transcription Pathway
+aminosalicylate,Metabolism
+aminothiazole,Hemostasis
+amiodarone,Muscle contraction
+amisulpride,Signal Transduction
+amitifadine,Transport of small molecules
+amitriptyline,Signal Transduction
+amlexanox,Signal Transduction
+amlodipine,Metabolism
+ammonium-glycyrrhizinate,Metabolism
+ammonium-lactate,Signal Transduction
+ammonium-perfluorocaprylate,Antimicrobial mechanism of IFN-stimulated genes
+amn-082,Signal Transduction
+amodiaquine,Metabolism
+amonafide,SUMOylation
+amoxapine,Signal Transduction
+amoxicillin,Transport of small molecules
+ampa-(rs),Neurotransmitter receptors and postsynaptic signal transmission
+ampa-(s),Neurotransmitter receptors and postsynaptic signal transmission
+ampalex,Neurotransmitter receptors and postsynaptic signal transmission
+amperozide,Metabolism
+amrinone,Signal Transduction
+amrubicin,SUMOylation
+amsacrine,Neuronal System
+amthamine,Signal Transduction
+amtolmetin-guacil,Metabolism
+amuvatinib,PIP3 activates AKT signaling
+amygdalin,Unknown
+ana-12,PIP3 activates AKT signaling
+anacetrapib,Signal Transduction
+anagliptin,Peptide hormone metabolism
+anagrelide,Signal Transduction
+anamorelin,Signal Transduction
+anandamide,Muscle contraction
+anastrozole,Metabolism
+andarine,Signal Transduction
+andrographolide,Downstream signaling events of B Cell Receptor (BCR)
+anguidine,Disease
+aniracetam,Neurotransmitter receptors and postsynaptic signal transmission
+anisindione,Gamma-carboxylation of protein precursors
+anisodamine,Signal Transduction
+anisomycin,Developmental Biology
+anisotropine,Signal Transduction
+anlotinib,Signal Transduction
+anpirtoline,Signal Transduction
+anr-94,Signal Transduction
+antagonist-g,Apoptosis
+antalarmin,Signal Transduction
+antazoline,Signal Transduction
+anthraquinone,Developmental Biology
+ap-18,Stimuli-sensing channels
+ap1903,PIP3 activates AKT signaling
+ap26113,Signal Transduction
+apabetalone,Unknown
+apafant,Cytokine Signaling in Immune system
+apatinib,Signal Transduction
+apc-100,Signal Transduction
+apck-110,Developmental Biology
+apd597,Peptide hormone metabolism
+apd668,Peptide hormone metabolism
+api-001,Disease
+api-1,Apoptosis
+apigenin,Metabolism
+apitolisib,Unknown
+apixaban,Hemostasis
+apocynin,Disease
+apoptosis-activator-ii,Metabolism
+apr-246,Apoptosis
+apraclonidine,Signal Transduction
+apratastat,Collagen degradation
+apremilast,Opioid Signalling
+aprepitant,Signal Transduction
+aprindine,Muscle contraction
+aptiganel,Neurotransmitter receptors and postsynaptic signal transmission
+apto-253,Developmental Biology
+apy-29,Cellular responses to stress
+apy0201,Cytokine Signaling in Immune system
+aq-ra741,Signal Transduction
+ar-12,Hemostasis
+ar-42,Hemostasis
+ar-a014418,Maturation of nucleoprotein
+ar-c155858,Transport of small molecules
+ara-g,Unknown
+arbidol,Metabolism
+arbutin,Developmental Biology
+arc-239,Hemostasis
+arctigenin,Cytokine Signaling in Immune system
+arcyriaflavin-a,Developmental Biology
+ardeparin,Hemostasis
+arecaidine-but-2-ynyl-ester,Signal Transduction
+arecaidine-propargyl-ester,Signal Transduction
+arecoline,Signal Transduction
+argatroban,Hemostasis
+arglabin,Cytokine Signaling in Immune system
+aripiprazole,Signal Transduction
+armodafinil,Defective SLC6A3 causes Parkinsonism-dystonia infantile (PKDYS)
+arofylline,Opioid Signalling
+arotinolol,Signal Transduction
+arq-092,Apoptosis
+arq-621,Hemostasis
+arry-334543,Signaling by ERBB2
+arry-520,Hemostasis
+arsanilic-acid,Innate Immune System
+artemisinin,Metabolism
+arv-825,Adaptive Immune System
+as-1269574,Peptide hormone metabolism
+as-1892802,Unknown
+as-1949490,Hemostasis
+as-2034178,Metabolism
+as-2444697,PIP3 activates AKT signaling
+as-252424,Hemostasis
+as-604850,Hemostasis
+as-703026,RAF-independent MAPK1/3 activation
+as-77,Neuronal System
+as601245,Unknown
+as605240,Unknown
+asaraldehyde,Cytokine Signaling in Immune system
+asc-j9,Signal Transduction
+ascomycin,Downstream signaling events of B Cell Receptor (BCR)
+ascorbate (vitamin c),Unknown
+ascorbic-acid,Extracellular matrix organization
+asenapine,Signal Transduction
+asiatic-acid,Metabolism
+asimadoline,Signal Transduction
+asp-2535,Transport of small molecules
+asp3026,Signal Transduction
+aspartame,Signal Transduction
+aspirin,Immune System
+ast-1306,Signaling by ERBB2
+astemizole,Neuronal System
+asymmetrical-dimethylarginine,Hemostasis
+at-1015,Signal Transduction
+at-7519,Generic Transcription Pathway
+at-9283,Cell Cycle
+at13148,Developmental Biology
+at13387,Signaling by ERBB2
+at7867,Developmental Biology
+ataluren,Extracellular matrix organization
+atb-346,Signal Transduction
+atenolol-(+/-),Signal Transduction
+atiprimod,Interleukin-6 signaling
+atizoram,Opioid Signalling
+atn-161,Hemostasis
+atomoxetine,Transmission across Chemical Synapses
+atorvastatin,Metabolism
+atovaquone,Metabolism
+atpa,Neurotransmitter receptors and postsynaptic signal transmission
+atrasentan,Signal Transduction
+atropine,Signal Transduction
+atropine-oxide,Signal Transduction
+auranofin,Cellular responses to stimuli
+aurora-a-inhibitor-i,Cell Cycle
+autotaxin-modulator-1,Metabolism
+av-412,Signaling by ERBB2
+av-608,Signal Transduction
+avagacestat,Signaling by ERBB4
+avanafil,Hemostasis
+avasimibe,Metabolism
+avatrombopag,Hemostasis
+ave-0991,Unknown
+avl-292,Adaptive Immune System
+avn-944,Metabolism
+avobenzone,Developmental Biology
+axitinib,Signal Transduction
+az 628,Signal Transduction
+az-10417808,Unknown
+az-10606120,Hemostasis
+az-12080282,Developmental Biology
+az-628,Signal Transduction
+az191,Unknown
+az20,Disease
+az505,Generic Transcription Pathway
+az6102,PIP3 activates AKT signaling
+az628,Spry regulation of FGF signaling
+az960,Cytokine Signaling in Immune system
+azacitidine,Disease
+azacyclonol,Signal Transduction
+azaguanine-8,Metabolism
+azaperone,Signal Transduction
+azapropazone,Cytokine Signaling in Immune system
+azasetron,Neurotransmitter receptors and postsynaptic signal transmission
+azatadine,Signal Transduction
+azathioprine,Metabolism
+azd1080,Maturation of nucleoprotein
+azd1208,Antimicrobial mechanism of IFN-stimulated genes
+azd1283,Hemostasis
+azd1332,Signal Transduction
+azd1446,Neurotransmitter receptors and postsynaptic signal transmission
+azd1480,Cytokine Signaling in Immune system
+azd1981,Signal Transduction
+azd2014,PIP3 activates AKT signaling
+azd2858,Maturation of nucleoprotein
+azd3264,Downstream signaling events of B Cell Receptor (BCR)
+azd3463,Signal Transduction
+azd3514,Signal Transduction
+azd3759,Signaling by ERBB2
+azd3839,Metabolism of proteins
+azd3965,Hemostasis
+azd3988,Metabolism
+azd4282,Metabolism
+azd4547,Signal Transduction
+azd4877,Unknown
+azd5069,Signal Transduction
+azd5153,Adaptive Immune System
+azd5363,Developmental Biology
+azd5438,Hemostasis
+azd5582,Cytokine Signaling in Immune system
+azd5991,Cytokine Signaling in Immune system
+azd6094,PIP3 activates AKT signaling
+azd6482,PIP3 activates AKT signaling
+azd6738,Meiotic synapsis
+azd6765,Neurotransmitter receptors and postsynaptic signal transmission
+azd7545,Aerobic respiration and respiratory electron transport
+azd7687,Metabolism
+azd7762,Cell Cycle
+azd7969,Maturation of nucleoprotein
+azd8055,PIP3 activates AKT signaling
+azd8186,PIP3 activates AKT signaling
+azd8330,Toll Like Receptor 4 (TLR4) Cascade
+azd8835,PIP3 activates AKT signaling
+azd8931,Signaling by ERBB2
+azd9272,Neuronal System
+azd9496,Signaling by ERBB4
+azd9668,Collagen degradation
+azelaic-acid,Metabolism
+azelastine,Signal Transduction
+azeliragon,Cytokine Signaling in Immune system
+azelnidipine,Developmental Biology
+azilsartan,Signal Transduction
+azilsartan-medoxomil,Signal Transduction
+azimilide,Muscle contraction
+azithromycin,Signal Transduction
+azm-475271,Hemostasis
+azosemide,Transport of small molecules
+baclofen-(r),Neurotransmitter receptors and postsynaptic signal transmission
+badge,PIP3 activates AKT signaling
+bafetinib,Signal Transduction
+bag-956,Hemostasis
+baicalein,Metabolism
+baicalin,Unknown
+bakuchiol,Regulation of gene expression by Hypoxia-inducible Factor
+balaglitazone,PIP3 activates AKT signaling
+balicatib,Adaptive Immune System
+balsalazide,Metabolism
+bam7,Unknown
+bambuterol,Metabolism of proteins
+ban-orl-24,Signal Transduction
+banoxantrone,Transcription of E2F targets under negative control by DREAM complex
+barasertib,Cell Cycle
+barasertib-hqpa,Amplification of signal from the kinetochores
+barbital,Neurotransmitter receptors and postsynaptic signal transmission
+bardoxolone,Hemostasis
+bardoxolone-methyl,Developmental Biology
+baricitinib,Interleukin-6 signaling
+basimglurant,Neuronal System
+batimastat,Degradation of the extracellular matrix
+bavisant,Signal Transduction
+bax-channel-blocker,Unknown
+bay acci,Metabolism
+bay akt1,Apoptosis
+bay-11-7082,Downstream signaling events of B Cell Receptor (BCR)
+bay-11-7085,Downstream signaling events of B Cell Receptor (BCR)
+bay-41-2272,Unknown
+bay-60-6583,Signal Transduction
+bay-60-7550,Hemostasis
+bay-61-3606,Hemostasis
+bay-87-2243,Regulation of gene expression by Hypoxia-inducible Factor
+bay-hdac11_1,Signaling by NOTCH
+bay-hdac11_2,Signaling by NOTCH
+bay-hdac11_4,Signaling by NOTCH
+bay-k-8644-(s)-(-),Developmental Biology
+bay-mps-combo 2 (paclitaxel 1 um),Unknown
+bay-mps-combo-1 (paclitaxel 5 um),Unknown
+bay-mps1,Unknown
+baz2-icr,Generic Transcription Pathway
+bazedoxifene,PIP3 activates AKT signaling
+bc-11,Hemostasis
+bctc,Stimuli-sensing channels
+bcx-1470,Hemostasis
+bd-1047,Disease
+bd-1063,Disease
+bdf00022089a,Generic Transcription Pathway
+bdilv000379a,Epigenetic regulation of gene expression
+bdoca000347a,Generic Transcription Pathway
+bdp-00009066,Unknown
+beclomethasone,Signal Transduction
+beclomethasone-dipropionate,Signal Transduction
+begacestat,Signaling by ERBB4
+belinostat,Signaling by NOTCH
+bemegride,Neurotransmitter receptors and postsynaptic signal transmission
+bemesetron,Neurotransmitter receptors and postsynaptic signal transmission
+bempedoic-acid,Metabolism
+benazepril,Metabolism of Angiotensinogen to Angiotensins
+bendazac,Metabolism
+bendroflumethiazide,Transport of small molecules
+benfluorex,Developmental Biology
+benfluralin,Metabolism
+benfotiamine,Cytokine Signaling in Immune system
+benidipine,Developmental Biology
+benperidol,Signal Transduction
+benproperine,Developmental Biology
+benserazide,Metabolism
+bentiromide,Signal Transduction
+benzamil,Transport of small molecules
+benzbromarone,Metabolism
+benzethonium,Developmental Biology
+benzocaine,Developmental Biology
+benzoic-acid,Metabolism
+benzoin,Metabolism
+benzonatate,Developmental Biology
+benzoquinonium-dibromide,Neurotransmitter receptors and postsynaptic signal transmission
+benzotript,Signal Transduction
+benzthiazide,Metabolism
+benztropine-mesylate,Signal Transduction
+bepotastine,Signal Transduction
+bepridil,Muscle contraction
+berberine,Metabolism
+bergenin,Cytokine Signaling in Immune system
+beta-amyloid-synthesis-inhibitor,Hemostasis
+beta-ccb,Neurotransmitter receptors and postsynaptic signal transmission
+beta-funaltrexamine,Signal Transduction
+beta-hydroxy-beta-methylbutyrate,PIP3 activates AKT signaling
+beta-hydroxybutyrate,Signal Transduction
+beta-lapachone,SUMOylation
+betahistine,Signal Transduction
+betamethasone,Signal Transduction
+betamethasone-acetate,Signal Transduction
+betamethasone-dipropionate,Signal Transduction
+betamethasone-valerate,Signal Transduction
+betaxolol,Signal Transduction
+betazole,Signal Transduction
+bethanechol,Signal Transduction
+betp,Metabolism
+betrixaban,Neuronal System
+betulinic-acid,Signal Transduction
+bevantolol,Signal Transduction
+bexarotene,Signal Transduction
+bezafibrate,Metabolism
+bf2.649,Signal Transduction
+bgt226,PIP3 activates AKT signaling
+bhq,Hemostasis
+bi-2536,Cell Cycle
+bi-78d3,Apoptosis
+bi-847325,Signal Transduction
+bi-d1870,Neurotransmitter receptors and postsynaptic signal transmission
+bibf-1120,Unknown
+bibn4096,Signal Transduction
+bibr-1532,Developmental Biology
+bibu-1361,Signaling by ERBB2
+bibx-1382,Signaling by ERBB2
+bicalutamide,Signal Transduction
+bicifadine,Transport of small molecules
+bicuculline-(+),Neuronal System
+bicyclol,AUF1 (hnRNP D0) binds and destabilizes mRNA
+bifemelane,Amine Oxidase reactions
+bifonazole,Metabolism
+biib021,Signaling by ERBB2
+bilastine,Signal Transduction
+bilobalide,Neurotransmitter receptors and postsynaptic signal transmission
+bimatoprost,Signal Transduction
+bimu-8,Signal Transduction
+bina,Signal Transduction
+bindarit,Signal Transduction
+binimetinib,RAF-independent MAPK1/3 activation
+bio-1211,Hemostasis
+bio-5192,Hemostasis
+biotin,Metabolism
+bipenamol,Adaptive Immune System
+biperiden,Signal Transduction
+birinapant,Apoptosis
+birt-377,Cytokine Signaling in Immune system
+bis(maltolato)oxovanadium(iv),Hemostasis
+bisindolylmaleimide-ix,Signal Transduction
+bisoprolol,Signal Transduction
+bisphenol-a,Generic Transcription Pathway
+bithionol,Disease
+bitopertin,Transport of small molecules
+bivalirudin,Hemostasis
+bix-01294,Epigenetic regulation of gene expression
+bix-02188,Signal Transduction
+bix-02189,Signal Transduction
+bix02189,Unknown
+blebbistatin-(+/-),Developmental Biology
+bleomycin,Unknown
+bleomycin (10 um),Unknown
+bleomycin (50 um),Unknown
+blonanserin,Signal Transduction
+blu9931,PI3K Cascade
+bml-190,Signal Transduction
+bms-182874,Signal Transduction
+bms-191011,Hemostasis
+bms-265246,G0 and Early G1
+bms-309403,Developmental Biology
+bms-345541,Downstream signaling events of B Cell Receptor (BCR)
+bms-387032,Disease
+bms-470539,Developmental Biology
+bms-509744,Adaptive Immune System
+bms-536924,Signal Transduction
+bms-566419,Metabolism
+bms-587101,Hemostasis
+bms-599626,Signaling by ERBB2
+bms-649,Developmental Biology
+bms-688521,Cytokine Signaling in Immune system
+bms-690514,Signal Transduction
+bms-754807,Signal Transduction
+bms-777607,Disease
+bms-817378,Signal Transduction
+bms-833923,Signal Transduction
+bms-863233,Cell Cycle
+bms-927711,Signal Transduction
+bms-986020,Signal Transduction
+bms-ccr2-22,Cytokine Signaling in Immune system
+bmy-14802,Signal Transduction
+bmy-45778,Hemostasis
+bmy-7378,Signal Transduction
+bntx,Signal Transduction
+boceprevir,Adaptive Immune System
+bopindolol,Signal Transduction
+bortezomib,Metabolism of proteins
+bosentan,Signal Transduction
+bosutinib,Signal Transduction
+bp-554,Signal Transduction
+bp-897,Signal Transduction
+bptes,Neurotransmitter release cycle
+bq-123,Signal Transduction
+bq-788,Developmental Biology
+bqu57,Signal Transduction
+brd-k05804044-001-18-5,Signal Transduction
+brd4770,Epigenetic regulation of gene expression
+brd9876,Hemostasis
+brefeldin-a,Membrane Trafficking
+bremelanotide,Signal Transduction
+brequinar,Metabolism
+bretazenil,Neurotransmitter receptors and postsynaptic signal transmission
+brexpiprazole,Signal Transduction
+briciclib,Developmental Biology
+brigatinib,Signal Transduction
+brimonidine,Hemostasis
+brinzolamide,Metabolism
+brivanib,Signal Transduction
+"brivanib, bms-540215",Unknown
+brivanib-alaninate,PI3K Cascade
+brivaracetam,Disease
+brl-15572,Signal Transduction
+brl-26314,Developmental Biology
+brl-37344,Signal Transduction
+brl-44408,Hemostasis
+brl-50481,Signal Transduction
+brl-52537,Signal Transduction
+brl-54443,Signal Transduction
+bromfenac,Metabolism
+bromocriptine,Signal Transduction
+bromopride,Signal Transduction
+bromosporine,Generic Transcription Pathway
+bromperidol,Signal Transduction
+brompheniramine,Signal Transduction
+broxaterol,Signal Transduction
+brucine,Signal Transduction
+bryostatin 1,Unknown
+bs-181,Formation of RNA Pol II elongation complex 
+btb06584,Unknown
+btb1,Hemostasis
+bts-54505,Transport of small molecules
+bts-72664,Neurotransmitter receptors and postsynaptic signal transmission
+btt-3033,Hemostasis
+bu-224,Amine Oxidase reactions
+bucladesine,Hemostasis
+buclizine,Signal Transduction
+budipine,Neurotransmitter receptors and postsynaptic signal transmission
+bufexamac,Signaling by NOTCH
+buflomedil,Signal Transduction
+bumetanide,Transport of small molecules
+bunazosin,Signal Transduction
+buparlisib,Hemostasis
+buphenine,Signal Transduction
+bupicomide,Signal Transduction
+bupivacaine,Muscle contraction
+bupranolol,Signal Transduction
+bupropion,Transmission across Chemical Synapses
+buspirone,Signal Transduction
+butabindide,Adaptive Immune System
+butaclamol,Signal Transduction
+butalbital,Neurotransmitter receptors and postsynaptic signal transmission
+butein,Metabolism of Angiotensinogen to Angiotensins
+butenafine,Metabolism
+buthionine-sulfoximine,Metabolism
+butorphanol-(+)-tartrate,Signal Transduction
+butylated-hydroxytoluene,Erythrocytes take up carbon dioxide and release oxygen
+butylphthalide,Neuronal System
+bvt-2733,Metabolism
+bvt-948,Cytokine Signaling in Immune system
+bw-180c,Cytokine Signaling in Immune system
+bw-373u86,Cytokine Signaling in Immune system
+bw-616u,Neurotransmitter release cycle
+bw-723c86,Signal Transduction
+bw-a4c,Cytokine Signaling in Immune system
+bw-b70c,Cytokine Signaling in Immune system
+bx-795,Signal Transduction
+bx-912,Signal Transduction
+bx795,Signal Transduction
+byk-204165,POLB-Dependent Long Patch Base Excision Repair
+c-021,Signal Transduction
+c-1,Hemostasis
+c-75,Unknown
+c11-acetate,Metabolism
+c34,Apoptosis
+c646,Regulation of gene expression by Hypoxia-inducible Factor
+cabazitaxel,Cell Cycle
+cabergoline,Signal Transduction
+cabozantinib,Signal Transduction
+caccinh-a01,Stimuli-sensing channels
+caffeic-acid,Cytokine Signaling in Immune system
+caffeic-acid-phenethyl-ester,Downstream signaling events of B Cell Receptor (BCR)
+caffeine,Signal Transduction
+calcifediol,Metabolism
+calcipotriol,Metabolism
+calcitriol,Metabolism
+calhex-231,Signal Transduction
+camicinal,Signal Transduction
+camkii-in-1,Signal Transduction
+camostat-mesilate,Developmental Biology
+camptothecin,SUMOylation
+canagliflozin,Disease
+candesartan,Signal Transduction
+candesartan-cilexetil,Signal Transduction
+candesartan-cilextil,Signal Transduction
+canertinib,Signaling by ERBB2
+canrenone,Generic Transcription Pathway
+"cap-232, tt-232, tln-232",Unknown
+capadenoson,Signal Transduction
+capecitabine,Metabolism
+capivasertib,Unknown
+capsaicin,Transport of small molecules
+capsazepine,Stimuli-sensing channels
+captopril,Immune System
+caramiphen,Signal Transduction
+carazolol,Signal Transduction
+carbachol,Signal Transduction
+carbamazepine,Developmental Biology
+carbendazim,Cell Cycle
+carbenoxolone,Gap junction trafficking and regulation
+carbetapentane,Signal Transduction
+carbetocin,Signal Transduction
+carbimazole,Metabolism
+carbinoxamine,Signal Transduction
+carboxyamidotriazole,Cytokine Signaling in Immune system
+carboxylosartan,Signal Transduction
+cardionogen-1,Apoptosis
+carebastine,Signal Transduction
+carfilzomib,Metabolism of proteins
+carglumic-acid,Metabolism
+cariporide,Metabolism
+cariprazine,Signal Transduction
+carisoprodol,Metabolism
+carmofur,Metabolism
+carmoxirole,Signal Transduction
+carmustine,Metabolism
+caroxazone,Amine Oxidase reactions
+carprofen,Metabolism
+carteolol,Signal Transduction
+carvedilol,Signal Transduction
+carzenide,Metabolism
+casin,Hemostasis
+castanospermine,Metabolism
+cathepsin-inhibitor-1,Adaptive Immune System
+cay10505,Hemostasis
+cay10566,Unknown
+cay10603,Signaling by NOTCH
+cb-03-01,Signal Transduction
+cb-5083,Attachment and Entry
+cb-839,Neurotransmitter release cycle
+cbipes,Signal Transduction
+cc-115,PIP3 activates AKT signaling
+cc-223,PIP3 activates AKT signaling
+cc-401,Apoptosis
+cc4,Neurotransmitter receptors and postsynaptic signal transmission
+ccg-1423,Developmental Biology
+ccg-50014,Signal Transduction
+ccmi,Neurotransmitter receptors and postsynaptic signal transmission
+cct-018159,Unknown
+cct-031374,Apoptosis
+cct007093,Generic Transcription Pathway
+cct018159,Developmental Biology
+cct128930,Hemostasis
+cct129202,Cell Cycle
+cct137690,Cell Cycle
+cct245232,Macroautophagy
+cct245467,Macroautophagy
+cd-1530,Developmental Biology
+cd-437,Developmental Biology
+cd532,Cell Cycle
+cdk1-5-inhibitor,Signal Transduction
+cdk9-in-6,Formation of RNA Pol II elongation complex 
+cdk9_5038,Formation of RNA Pol II elongation complex 
+cdk9_5576,Formation of RNA Pol II elongation complex 
+cdppb,Neuronal System
+ce3f4,Hemostasis
+cebranopadol,Signal Transduction
+cediranib,Signal Transduction
+cefadroxil,Transport of small molecules
+cefazolin,Metabolism
+cefdinir,ROS and RNS production in phagocytes
+celecoxib,Metabolism
+celiprolol,Signal Transduction
+cep-32496,Signal Transduction
+cep-33779,Interleukin-6 signaling
+cep-37440,Signal Transduction
+ceritinib,Signal Transduction
+cerulenin,Metabolism
+ceruletide,Signal Transduction
+cetirizine,Signal Transduction
+cetrorelix,Signal Transduction
+cetuximab,Signaling by ERBB2
+cevimeline,Signal Transduction
+cevipabulin,Cell Cycle
+cf102,Signal Transduction
+cftrinh-172,Developmental Biology
+cgh2466,Signal Transduction
+cgk-733,Reproduction
+cgm097,Neurotransmitter receptors and postsynaptic signal transmission
+cgp-082996,Developmental Biology
+cgp-12177,Signal Transduction
+cgp-13501,Neurotransmitter receptors and postsynaptic signal transmission
+cgp-20712a,Signal Transduction
+cgp-37157,Hemostasis
+cgp-37849,Neurotransmitter receptors and postsynaptic signal transmission
+cgp-52411,Signaling by ERBB2
+cgp-53353,Signal Transduction
+cgp-54626,Neurotransmitter receptors and postsynaptic signal transmission
+cgp-55845,Neurotransmitter receptors and postsynaptic signal transmission
+cgp-57380,Signal Transduction
+cgp-60474,Generic Transcription Pathway
+cgp-71683,Signal Transduction
+cgp-74514,MAPK3 (ERK1) activation
+cgp-7930,Neurotransmitter receptors and postsynaptic signal transmission
+cgs-15943,Signal Transduction
+cgs-20625,Neurotransmitter receptors and postsynaptic signal transmission
+cgs-21680,Signal Transduction
+cgs-9896,Neurotransmitter receptors and postsynaptic signal transmission
+ch-5183284,PI3K Cascade
+ch223191,Metabolism
+ch5132799,PIP3 activates AKT signaling
+ch55,Developmental Biology
+chc,Hemostasis
+chenodeoxycholic-acid,Metabolism
+chf5074,Signaling by ERBB4
+chicago-sky-blue-6b,Hemostasis
+chidamide,Signaling by NOTCH
+chir-124,Signaling by SCF-KIT
+chir-98014,Maturation of nucleoprotein
+chir-99021,Signal Transduction
+chloramphenicol,Signal Transduction
+chlorcyclizine,Signal Transduction
+chlormadinone-acetate,Signaling by ERBB4
+chlormezanone,Neurotransmitter receptors and postsynaptic signal transmission
+chlorogenic-acid,Metabolism
+chloroprocaine,Transmission across Chemical Synapses
+chloropyramine,Signal Transduction
+chloroquine,Immune System
+chlorothiazide,Transport of small molecules
+chlorotrianisene,PIP3 activates AKT signaling
+chloroxine,Signal Transduction
+chlorphenamine,Transport of small molecules
+chlorproguanil,Metabolism
+chlorpromazine,Signal Transduction
+chlorpropamide,Neuronal System
+chlorprothixene,Signal Transduction
+chlorpyrifos,Neurotransmitter clearance
+chlorthalidone,Metabolism
+chlorzoxazone,Neuronal System
+cholecalciferol,Metabolism
+cholic-acid,Metabolism
+choline,Metabolism
+choline-alfoscerate,Metabolism
+chr-6494,Unknown
+chrysin,Metabolism
+chrysophanic-acid,PIP3 activates AKT signaling
+ci-1033,Signaling by ERBB2
+ci-1040,Unknown
+ci-966,Neurotransmitter release cycle
+ci-976,Metabolism
+cianidanol,COX reactions
+ciclesonide,Signal Transduction
+ciclopirox,Disease
+cicloprofen,Metabolism
+cid-16020046,Signal Transduction
+cid-2011756,Organelle biogenesis and maintenance
+cid-2745687,Signal Transduction
+cid-5458317,Apoptosis
+ciglitazone,PIP3 activates AKT signaling
+cilazapril,Metabolism of Angiotensinogen to Angiotensins
+cilengitide,Hemostasis
+cilnidipine,Presynaptic depolarization and calcium channel opening
+cilomilast,Opioid Signalling
+cilostamide,Signal Transduction
+cilostazol,Signal Transduction
+cim-0216,Stimuli-sensing channels
+cimaterol,Signal Transduction
+cimetidine,Transport of small molecules
+cimetropium,Signal Transduction
+cinacalcet,Signal Transduction
+cinaciguat,Unknown
+cinalukast,Signal Transduction
+cinanserin,Signal Transduction
+cinchocaine,Muscle contraction
+cinchonine,Metabolism
+cinnamaldehyde,Stimuli-sensing channels
+cinpa-1,Generic Transcription Pathway
+cipemastat,Collagen degradation
+ciprofibrate,Developmental Biology
+ciprofloxacin,Transcription of E2F targets under negative control by DREAM complex
+ciproxifan,Signal Transduction
+ciq,Neurotransmitter receptors and postsynaptic signal transmission
+cirazoline,Signal Transduction
+cis-aconitic-acid,Mitochondrial protein import
+cis-acpd,Signal Transduction
+cis-urocanic acid,Signal Transduction
+cis-urocanic-acid,Signal Transduction
+cisapride,Signal Transduction
+cisatracurium,Signal Transduction
+cisplatin,Unknown
+citalopram,Signal Transduction
+citco,Generic Transcription Pathway
+citicoline,Transmission across Chemical Synapses
+cj-033466,Signal Transduction
+ck-636,Developmental Biology
+ckd-712,Interleukin-6 signaling
+cki-7,Metabolism
+cl-218872,Neurotransmitter receptors and postsynaptic signal transmission
+cl316243,Aerobic respiration and respiratory electron transport
+cladribine,Cell Cycle
+clarithromycin,Metabolism
+clebopride,Neurotransmitter clearance
+clemastine,Signal Transduction
+clenbuterol,Signal Transduction
+cleviprex,Developmental Biology
+clidinium,Signal Transduction
+clinofibrate,Developmental Biology
+clioquinol,Signal Transduction
+clobazam,Neurotransmitter receptors and postsynaptic signal transmission
+clobenpropit,Signal Transduction
+clobetasol-propionate,Signal Transduction
+clobetasone-butyrate,Signal Transduction
+clocortolone-pivalate,Signal Transduction
+clodronic-acid,Unknown
+clofarabine,Cell Cycle
+clofedanol,Signal Transduction
+clofibrate,Developmental Biology
+clofibric-acid,Developmental Biology
+clomethiazole,Neurotransmitter receptors and postsynaptic signal transmission
+clomifene,Signaling by ERBB4
+clomipramine,Signal Transduction
+clonazepam,Neurotransmitter receptors and postsynaptic signal transmission
+clonidine,Signal Transduction
+clonixin,Metabolism
+clopidogrel,Hemostasis
+cloprostenol-(+/-),Signal Transduction
+cloranolol,Signal Transduction
+clorgiline,Neurotransmitter release cycle
+clorotepine,Signal Transduction
+clorprenaline,Signal Transduction
+clotrimazole,Stimuli-sensing channels
+cloxyquin,Neuronal System
+clozapine,Signal Transduction
+cmk,Unknown
+cmpd-1,Signal Transduction
+cnqx,Neurotransmitter receptors and postsynaptic signal transmission
+cnx-2006,Signaling by ERBB2
+cnx-774,ER-Phagosome pathway
+co-101244,Neurotransmitter receptors and postsynaptic signal transmission
+co-102862,Developmental Biology
+cobicistat,Metabolism
+cobimetinib,MAPK3 (ERK1) activation
+colchicine,Neurotransmitter receptors and postsynaptic signal transmission
+colforsin,Opioid Signalling
+compound-401,Immune System
+compound-w,Metabolism of proteins
+conivaptan,Signal Transduction
+copanlisib,PIP3 activates AKT signaling
+copper-histidine,Transport of small molecules
+cor-170,Signal Transduction
+corosolic-acid,Metabolism
+corticosterone,Metabolism
+cortisone,Signal Transduction
+cortisone-acetate,Signal Transduction
+cortodoxone,Signal Transduction
+cot-inhibitor-1,Cytokine Signaling in Immune system
+cot-inhibitor-2,Cytokine Signaling in Immune system
+coumarin,Metabolism
+cp-316819,Metabolism
+cp-339818,Neuronal System
+cp-376395,Signal Transduction
+cp-471474,Collagen degradation
+cp-532623,Signal Transduction
+cp-640186,Metabolism
+cp-673451,PIP3 activates AKT signaling
+cp-724714,Signaling by ERBB2
+cp-775146,Developmental Biology
+cp-91149,Metabolism
+cp-93129,Signal Transduction
+cp-94253,Signal Transduction
+"cp-945,598",Signal Transduction
+cp-99994,Signal Transduction
+cp466722,Reproduction
+cp724714,Signaling by ERBB2
+cpa-inhibitor,Developmental Biology
+cpccoet,Neuronal System
+cpi-0610,Adaptive Immune System
+cpi-1189,Unknown
+cpi-169,PIP3 activates AKT signaling
+cpi-203,Adaptive Immune System
+cpi-360,PIP3 activates AKT signaling
+cpi-613,Aerobic respiration and respiratory electron transport
+cpi-637,Regulation of gene expression by Hypoxia-inducible Factor
+cpp,Neurotransmitter receptors and postsynaptic signal transmission
+cpsi-1306-(+/-),Hemostasis
+cr8-(r),Transcription of E2F targets under negative control by p107 (RBL1) and p130 (RBL2) in complex with HDAC1
+creatine,Metabolism
+crenolanib,PIP3 activates AKT signaling
+cridanimod,Signaling by ERBB4
+crisaborole,Opioid Signalling
+crizotinib,Signal Transduction
+crizotinib-(s),Metabolism
+cromakalim,Neuronal System
+cromoglicic-acid,Hemostasis
+crt0105446,Hemostasis
+crt0105950,Unknown
+crt0160829,Cell Cycle
+cs-110266,Defective SLC6A3 causes Parkinsonism-dystonia infantile (PKDYS)
+cs-917,Metabolism
+ct-7758,Hemostasis
+ct7033-2,HDMs demethylate histones
+ctep,Neuronal System
+cts-1027,Collagen degradation
+cts21166,Metabolism of proteins
+cu-cpt-4a,ZBP1(DAI) mediated induction of type I IFNs
+cu-t12-9,ER-Phagosome pathway
+cudc-101,Signaling by ERBB2
+cudc-427,Unknown
+cudc-907,Hemostasis
+cur-61414,Signal Transduction
+curcumin,Metabolism
+curcumol,Cytokine Signaling in Immune system
+cutamesine,Disease
+cv-1808,Signal Transduction
+cvt-10216,Neurotransmitter clearance
+cw-008,Hemostasis
+cx-4945,PIP3 activates AKT signaling
+cx-5461,Unknown
+cyamemazine,Signal Transduction
+cyanocobalamin,Metabolism
+cyanopindolol,Signal Transduction
+cyc116,Cell Cycle
+cyclandelate,Presynaptic depolarization and calcium channel opening
+cyclizine,Signal Transduction
+cyclobenzaprine,Signal Transduction
+cycloheximide,Developmental Biology
+cyclopamine,Signal Transduction
+cyclopentolate,Signal Transduction
+cyclophosphamide,Metabolism
+cyclopiazonic-acid,Hemostasis
+cyclosporin-a,Metabolism
+cyclosporine,Metabolism
+cyclovalone,Developmental Biology
+cym-50260,Signal Transduction
+cym-50358,Signal Transduction
+cym-50769,Signal Transduction
+cym-5442,Cytokine Signaling in Immune system
+cym-5520,Signal Transduction
+cym-5541,Signal Transduction
+cyproheptadine,Signal Transduction
+cyproterone-acetate,Signal Transduction
+cysteamine,Signal Transduction
+cyt-997,Cell Cycle
+cyt387,Cytokine Signaling in Immune system
+cytarabine,Cell Cycle
+cytidine,Cell Cycle
+cytisine,Neurotransmitter receptors and postsynaptic signal transmission
+cytochalasin-b,Hemostasis
+czc-54252,Signal Transduction
+czc24832,Hemostasis
+d-(+)-maltose,Digestion of dietary carbohydrate
+d-4476,Signal Transduction
+d-64131,Cell Cycle
+d-phenylalanine,Signal Transduction
+d-serine,Neurotransmitter receptors and postsynaptic signal transmission
+daa-1106,Metabolism
+dabigatran,Hemostasis
+dabigatran-etexilate,Hemostasis
+dabrafenib,Signal Transduction
+dacarbazine,Metabolism
+dacinostat,Signaling by NOTCH
+dacomitinib,Signaling by ERBB2
+dactinomycin,Formation of RNA Pol II elongation complex 
+dactolisib,Unknown
+daidzein,Generic Transcription Pathway
+daidzin,Neurotransmitter clearance
+dalargin,Opioid Signalling
+dalbavancin,Developmental Biology
+dalcetrapib,Signal Transduction
+dalfampridine,Neuronal System
+daltroban,Hemostasis
+daminozide,HDMs demethylate histones
+danazol,Signal Transduction
+danirixin,Signal Transduction
+dantrolene,Stimuli-sensing channels
+danusertib,Signal Transduction
+dapagliflozin,Disease
+dapiprazole,Signal Transduction
+dapivirine,Metabolism
+daporinad,"BMAL1:CLOCK,NPAS2 activates circadian expression"
+dapoxetine,Signal Transduction
+daprodustat,Cellular response to hypoxia
+dapsone,Metabolism
+darapladib,Peptide hormone metabolism
+darglitazone,PIP3 activates AKT signaling
+darifenacin,Signal Transduction
+darolutamide,Signal Transduction
+darunavir,Metabolism
+darusentan,Signal Transduction
+dasatinib,Signal Transduction
+dau-5884,Metabolism
+daunorubicin,SUMOylation
+dazmegrel,Metabolism
+dazoxiben,Metabolism
+dbeq,Unknown
+dbpr108,Peptide hormone metabolism
+dc-260126,Metabolism
+dcc-2618,PIP3 activates AKT signaling
+dcebio,Neuronal System
+dcpib,Neurotransmitter release cycle
+ddr1-in-1,Extracellular matrix organization
+debrisoquin,Disease
+decamethonium,Transmission across Chemical Synapses
+decernotinib,Interleukin-7 signaling
+decitabine,Disease
+defactinib,Apoptosis
+deferasirox,Metabolism
+deferiprone,Metabolism
+deflazacort,Signal Transduction
+deforolimus,PIP3 activates AKT signaling
+degarelix,Signal Transduction
+dehydrocorydaline,Neurotransmitter clearance
+dehydroepiandrosterone,Neurotransmitter receptors and postsynaptic signal transmission
+dehydroepiandrosterone-sulfate,Signal Transduction
+delanzomib,Degradation of the extracellular matrix
+delapril,Metabolism of Angiotensinogen to Angiotensins
+delavirdine,Metabolism
+delivert,Signal Transduction
+deltarasin,Hemostasis
+demecarium,Neurotransmitter clearance
+deoxycholic-acid,Signal Transduction
+deoxycorticosterone-acetate,Generic Transcription Pathway
+deoxyepinephrine,Signal Transduction
+deptropine,Signal Transduction
+dequalinium,Neuronal System
+deracoxib,Cytokine Signaling in Immune system
+deserpidine,Metabolism of Angiotensinogen to Angiotensins
+desipramine,Signal Transduction
+deslanoside,Disease
+desloratadine,Signal Transduction
+desmopressin-acetate,Signal Transduction
+desogestrel,Signaling by ERBB4
+desonide,Signal Transduction
+desoximetasone,Signal Transduction
+desoxycorticosterone-pivalate,Generic Transcription Pathway
+desoxycortone,Generic Transcription Pathway
+desoxypeganine,Neurotransmitter clearance
+desvenlafaxine,Transport of small molecules
+detomidine,Hemostasis
+dexamethasone,Generic Transcription Pathway
+dexamethasone-sodium-phosphate,Signal Transduction
+dexfenfluramine,Signal Transduction
+dexfosfoserine,Signal Transduction
+dexlansoprazole,Transport of small molecules
+dexloxiglumide,Signal Transduction
+dexmedetomidine,Hemostasis
+dexniguldipine,Signal Transduction
+dexrazoxane,SUMOylation
+dextroamphetamine,Signal Transduction
+dextromethorphan,Immune System
+dfb,Neuronal System
+dg-172,Metabolism
+dh-97,Signal Transduction
+diacerein,Cytokine Signaling in Immune system
+diadenosine-tetraphosphate,Signal Transduction
+diarylpropionitrile,PIP3 activates AKT signaling
+diazepam,Neurotransmitter receptors and postsynaptic signal transmission
+diazoxide,Transport of small molecules
+dibutyl-phthalate,Stimuli-sensing channels
+dichloroacetate,Aerobic respiration and respiratory electron transport
+diclofenac,Metabolism
+diclofenamide,Metabolism
+diclofensine,Amine Oxidase reactions
+dicoumarol,Metabolism
+dicycloverine,Signal Transduction
+didanosine,Metabolism
+didox,Metabolism
+dienestrol,Signaling by ERBB4
+dienogest,Signaling by ERBB4
+diethylcarbamazine,Metabolism
+diethylstilbestrol,Generic Transcription Pathway
+diflorasone-diacetate,Signal Transduction
+diflunisal,Metabolism
+difluprednate,Signal Transduction
+digitoxigenin,Disease
+digitoxin,Disease
+digoxin,Disease
+dihomo-gamma-linolenic-acid,Metabolism
+dihydrexidine,Signal Transduction
+dihydroergocristine,Signal Transduction
+dihydroergotamine,Signal Transduction
+dihydrotestosterone,Signal Transduction
+dihydroxyphenylglycine,Neuronal System
+dilazep,Transport of small molecules
+diltiazem,Neuronal System
+dimaprit,Signal Transduction
+dimemorfan,Disease
+dimercaptosuccinic-acid,Signal Transduction
+dimethindene-(s)-(+),Signal Transduction
+dimethyl-fumarate,Adaptive Immune System
+diminazene-aceturate,Metabolism
+dimpylate,Neurotransmitter clearance
+dinaciclib,Signal Transduction
+dinoprost,Signal Transduction
+dinoprostone,Signal Transduction
+dioscin,Developmental Biology
+diosmetin,Metabolism
+diosmin,Metabolism
+diphemanil,Metabolism
+diphenhydramine,Signal Transduction
+diphenidol,Signal Transduction
+diphenyleneiodonium,Hemostasis
+diphenylpyraline,Defective SLC6A3 causes Parkinsonism-dystonia infantile (PKDYS)
+dipivefrine,Metabolism of proteins
+dipraglurant,Neuronal System
+dipt,Signal Transduction
+dipyridamole,Signal Transduction
+disopyramide,Muscle contraction
+disulfiram,Metabolism
+ditiocarb-sodium-trihydrate,Erythrocytes take up carbon dioxide and release oxygen
+ditolylguanidine,Neurotransmitter receptors and postsynaptic signal transmission
+dizocilpine-(+),Neurotransmitter receptors and postsynaptic signal transmission
+dmab-anabaseine,Neurotransmitter receptors and postsynaptic signal transmission
+dmeob,Neuronal System
+dmh1,Unknown
+dmh4,Extracellular matrix organization
+dmog,Unknown
+dmp-777,ROS and RNS production in phagocytes
+dnqx,Neurotransmitter receptors and postsynaptic signal transmission
+dobutamine,Signal Transduction
+docetaxel,Immune System
+docosanol,Disease
+dofequidar,Abacavir transmembrane transport
+dofetilide,Neuronal System
+dolasetron,Neurotransmitter receptors and postsynaptic signal transmission
+dolastatin-10,Cell Cycle
+dolutegravir,Metabolism
+domperidone,Signal Transduction
+donepezil,Neurotransmitter clearance
+donitriptan,Signal Transduction
+dopamine,Signal Transduction
+doramapimod,Signal Transduction
+dorsomorphin,Signal Transduction
+dorzolamide,Metabolism
+dosulepin,Signal Transduction
+dovitinib,Signal Transduction
+doxapram,Neuronal System
+doxazosin,Signal Transduction
+doxepin,Signal Transduction
+doxercalciferol,Metabolism
+doxifluridine,Metabolism
+doxofylline,Signal Transduction
+doxorubicin,Transcription of E2F targets under negative control by DREAM complex
+doxycycline,Collagen degradation
+doxylamine,Signal Transduction
+dpcpx,Signal Transduction
+dpi-201106,Signal Transduction
+dpo-1,Neuronal System
+dppe,Abacavir transmembrane transport
+dqp-1105,Neurotransmitter receptors and postsynaptic signal transmission
+dr-2313,POLB-Dependent Long Patch Base Excision Repair
+dr-4485,Signal Transduction
+drf053-(r),Signal Transduction
+droloxifene,Signaling by ERBB4
+dromostanolone-propionate,Signal Transduction
+dronedarone,Developmental Biology
+droperidol,Signal Transduction
+drospirenone,Generic Transcription Pathway
+drotaverine,Developmental Biology
+droxidopa,Signal Transduction
+droxinostat,Signaling by NOTCH
+dsr-6434,Disease
+du-728,Hemostasis
+duloxetine,Signal Transduction
+dup-697,Cytokine Signaling in Immune system
+dutasteride,Metabolism
+duvelisib,PIP3 activates AKT signaling
+dy131,Generic Transcription Pathway
+dyclonine,Developmental Biology
+dydrogesterone,Signaling by ERBB4
+dynasore,Developmental Biology
+dynole-34-2,Developmental Biology
+dyphylline,Signal Transduction
+dyrk1b_0191,Unknown
+e-2012,Signaling by ERBB4
+e-4031,Neuronal System
+e-64,Antigen processing-Cross presentation
+e7449,Signal Transduction
+eact,Disease
+eb-47,POLB-Dependent Long Patch Base Excision Repair
+ebastine,Metabolism
+ebpc,Metabolism
+ebrotidine,Signal Transduction
+ebselen,Hemostasis
+ec-144,Developmental Biology
+ec-23,Developmental Biology
+ecabet,Signal Transduction
+econazole,Signal Transduction
+edaglitazone,PIP3 activates AKT signaling
+edoxaban,Hemostasis
+edrophonium,Neurotransmitter clearance
+eed226,PIP3 activates AKT signaling
+"eef2k inhibitor, a-484954",Unknown
+efaproxiral,Erythrocytes take up carbon dioxide and release oxygen
+efaroxan,Signal Transduction
+efatutazone,PIP3 activates AKT signaling
+efavirenz,Metabolism
+efinaconazole,Developmental Biology
+eflornithine,Metabolism
+efonidipine-monoethanolate,Developmental Biology
+eg00229,Developmental Biology
+eg5_9814,Unknown
+egf816,Signaling by ERBB2
+eglumetad,Signal Transduction
+ehop-016,Signal Transduction
+eht-1864,Signal Transduction
+ei1,PIP3 activates AKT signaling
+eipa,Hemostasis
+eit-hydrobromide,Hemostasis
+elacridar,Abacavir transmembrane transport
+elacytarabine,Metabolism
+elafibranor,Metabolism
+elagolix,Signal Transduction
+eldecalcitol,Metabolism
+elesclomol,Antimicrobial mechanism of IFN-stimulated genes
+eletriptan,Signal Transduction
+eliglustat,Metabolism
+eliprodil,Neurotransmitter receptors and postsynaptic signal transmission
+ellagic-acid,Metabolism
+eln-441958,Signal Transduction
+eltanolone,Neurotransmitter receptors and postsynaptic signal transmission
+eltoprazine,Signal Transduction
+eltrombopag,Hemostasis
+eluxadoline,Signal Transduction
+embelin,Unknown
+emd-1214063,PIP3 activates AKT signaling
+emd-386088,Signal Transduction
+emd-53998,Striated Muscle Contraction
+emd-66684,Signal Transduction
+emedastine,Signal Transduction
+emetine,Developmental Biology
+emodin,PIP3 activates AKT signaling
+empagliflozin,Disease
+emricasan,Antimicrobial mechanism of IFN-stimulated genes
+enalapril,Metabolism of Angiotensinogen to Angiotensins
+enalaprilat,Metabolism of Angiotensinogen to Angiotensins
+enasidenib,Metabolism
+enciprazine,Neurotransmitter receptors and postsynaptic signal transmission
+encorafenib,Spry regulation of FGF signaling
+endo-iwr-1,PIP3 activates AKT signaling
+enflurane,Neuronal System
+enilconazole,Metabolism
+enmd-2076,Signal Transduction
+enocitabine,Metabolism
+enoxacin,Transcription of E2F targets under negative control by DREAM complex
+enoximone,Signal Transduction
+enoxolone,Metabolism
+enprofylline,Signal Transduction
+entacapone,Neurotransmitter clearance
+entinostat,Signaling by NOTCH
+entospletinib,Hemostasis
+entrectinib,Signal Transduction
+enzalutamide,Signal Transduction
+enzastaurin,Signal Transduction
+eo-1428,Developmental Biology
+epacadostat,Metabolism
+epalrestat,Metabolism
+eperisone,Metabolism
+ephb4_9721,Developmental Biology
+ephedrine,Transmission across Chemical Synapses
+ephedrine-(racemic),Signal Transduction
+epiandrosterone,Metabolism
+epicatechin-gallate-(-),Metabolism of proteins
+epigallocatechin-gallate-(-),Signal Transduction
+epinastine,Signal Transduction
+epinephrine,Signal Transduction
+epirizole,Metabolism
+epirubicin,Signal Transduction
+epitiostanol,Signal Transduction
+eplerenone,Generic Transcription Pathway
+epoprostenol,Signal Transduction
+epothilone b,Unknown
+epothilone-b,Cell Cycle
+epothilone-d,Cell Cycle
+epptb,Signal Transduction
+eprobemide,Neurotransmitter release cycle
+eprodisate,Cytokine Signaling in Immune system
+eprosartan,Signal Transduction
+eptifibatide,Hemostasis
+epz-5676,PKMTs methylate histone lysines
+epz004777,PKMTs methylate histone lysines
+epz005687,PIP3 activates AKT signaling
+epz011989,PIP3 activates AKT signaling
+epz015666,snRNP Assembly
+epz020411,Generic Transcription Pathway
+epz5676,PKMTs methylate histone lysines
+equilin,Metabolism
+equol,PIP3 activates AKT signaling
+er-27319,Hemostasis
+er-50891,Developmental Biology
+erastin,Macroautophagy
+ercalcitriol,Metabolism
+erdafitinib,PI3K Cascade
+ergocalciferol,Metabolism
+ergonovine,Signal Transduction
+erk5-in-1,Developmental Biology
+erk_2440,Unknown
+erk_6604,Unknown
+erlotinib,Generic Transcription Pathway
+erteberel,PIP3 activates AKT signaling
+ertugliflozin,Disease
+erythromycin,Signal Transduction
+erythromycin-ethylsuccinate,Transport of small molecules
+escitalopram,Signal Transduction
+esi-09,Hemostasis
+eslicarbazepine-acetate,Developmental Biology
+esmolol,Signal Transduction
+esomeprazole,Transport of small molecules
+estetrol,Signaling by ERBB4
+estradiol,Signal Transduction
+estradiol-acetate,Signaling by ERBB4
+estradiol-benzoate,Signaling by ERBB4
+estradiol-cypionate,Signaling by ERBB4
+estradiol-valerate,Signaling by ERBB4
+estramustine,PIP3 activates AKT signaling
+estramustine-phosphate,PIP3 activates AKT signaling
+estriol,PIP3 activates AKT signaling
+estrone,PIP3 activates AKT signaling
+estropipate,PIP3 activates AKT signaling
+eszopiclone,Neurotransmitter receptors and postsynaptic signal transmission
+etacrynic-acid,Disease
+etazolate,Signal Transduction
+etc-1002,Metabolism
+etc-159,Signal Transduction
+ethanolamine-oleate,Metabolism
+ethinyl-estradiol,Generic Transcription Pathway
+ethisterone,Developmental Biology
+ethosuximide,Developmental Biology
+ethotoin,Developmental Biology
+ethoxzolamide,Metabolism
+ethynodiol-diacetate,Signaling by ERBB4
+eticlopride,Signal Transduction
+etidronic-acid,Signal Transduction
+etifoxine,Neurotransmitter receptors and postsynaptic signal transmission
+etilefrine,Signal Transduction
+etilevodopa,Signal Transduction
+etizolam,Neurotransmitter receptors and postsynaptic signal transmission
+etodolac,Metabolism
+etofenamate,Metabolism
+etofibrate,Developmental Biology
+etofylline,Signal Transduction
+etofylline-clofibrate,Developmental Biology
+etomidate,Neurotransmitter receptors and postsynaptic signal transmission
+etomoxir,Metabolism
+etonogestrel,Signaling by ERBB4
+etoposide,SUMOylation
+etoposide-phosphate,Transcription of E2F targets under negative control by DREAM complex
+etoricoxib,Cytokine Signaling in Immune system
+etp-45658,PIP3 activates AKT signaling
+etp-45835,Unknown
+etravirine,Metabolism
+etretinate,Signal Transduction
+eugenol,Signal Transduction
+euk-134,Cytokine Signaling in Immune system
+evacetrapib,Signal Transduction
+evans-blue,Neurotransmitter receptors and postsynaptic signal transmission
+evatanepag,Signal Transduction
+everolimus,PIP3 activates AKT signaling
+evodiamine,Stimuli-sensing channels
+evp-6124,Neurotransmitter receptors and postsynaptic signal transmission
+ew-7197,Signal Transduction
+ex-527,Developmental Biology
+examorelin,Signal Transduction
+exatecan-mesylate,SUMOylation
+exemestane,Metabolism
+exherin,Developmental Biology
+exifone,Developmental Biology
+exisulind,Hemostasis
+exo-iwr-1,PIP3 activates AKT signaling
+ezatiostat,Metabolism
+ezetimibe,Innate Immune System
+ezutromid,Developmental Biology
+f-11440,Signal Transduction
+f351,Hemostasis
+fadrozole,Metabolism
+fagomine,Metabolism
+falecalcitriol,Metabolism
+famotidine,Signal Transduction
+fananserin,Signal Transduction
+farnesyl-thiosalicylic-acid-amide,Hemostasis
+fasudil,Developmental Biology
+febuxostat,Adaptive Immune System
+fedratinib,Disease
+felbamate,Neurotransmitter receptors and postsynaptic signal transmission
+felbinac,Attachment and Entry
+felodipine,Muscle contraction
+fen1_3940,POLB-Dependent Long Patch Base Excision Repair
+fenbendazole,Cell Cycle
+fenbufen,Metabolism
+fenclonine-(+/-),Metabolism
+fendiline,Signal Transduction
+fenigam,Neurotransmitter receptors and postsynaptic signal transmission
+fenobam,Neuronal System
+fenofibrate,Degradation of the extracellular matrix
+fenofibric-acid,Stimuli-sensing channels
+fenoldopam,Signal Transduction
+fenoprofen,Metabolism
+fenoterol,Signal Transduction
+fenretinide,Developmental Biology
+fentiazac,Metabolism
+ferb-033,Signaling by ERBB2
+ferulic-acid,Metabolism
+fesoterodine,Signal Transduction
+fexaramine,Metabolism
+fexofenadine,Signal Transduction
+fg-2216,Cellular response to hypoxia
+fg-4592,Cellular response to hypoxia
+fgfr_0939,PI3K Cascade
+fgfr_3831,PI3K Cascade
+fgin-1-27,Metabolism
+fgin-1-43,Metabolism
+fh-535,Metabolism
+fh535,Unknown
+fidarestat,Metabolism
+filanesib,Hemostasis
+filgotinib,Cytokine Signaling in Immune system
+fimasartan,Signal Transduction
+finasteride,Metabolism
+fingolimod,Signal Transduction
+fipi,Metabolism
+firategrast,Hemostasis
+firocoxib,Cytokine Signaling in Immune system
+fisetin,Disease
+fk-33-824,Opioid Signalling
+fk-3311,Cytokine Signaling in Immune system
+fk-866,"BMAL1:CLOCK,NPAS2 activates circadian expression"
+fk-888,Signal Transduction
+flavopiridol,Unknown
+flavoxate,Signal Transduction
+flecainide,Muscle contraction
+fleroxacin,Transcription of E2F targets under negative control by DREAM complex
+flibanserin,Signal Transduction
+flindokalner,Neuronal System
+floctafenine,Metabolism
+flopropione,Signal Transduction
+floxuridine,Metabolism
+flubendazole,Cell Cycle
+fluconazole,Developmental Biology
+flucytosine,Signal Transduction
+fludarabine,Metabolism
+fludarabine-phosphate,Metabolism
+fludrocortisone-acetate,Generic Transcription Pathway
+fludroxycortide,Signal Transduction
+flufenamic-acid,Gap junction trafficking and regulation
+flumatinib,Signal Transduction
+flumazenil,Neurotransmitter receptors and postsynaptic signal transmission
+flumethasone,Signal Transduction
+flumethasone-pivalate,Signal Transduction
+flunarizine,Muscle contraction
+flunisolide,Signal Transduction
+fluocinolone-acetonide,Signal Transduction
+fluocinonide,Signal Transduction
+fluorescein,Transport of small molecules
+fluorometholone,Signal Transduction
+fluorometholone-acetate,Signal Transduction
+fluoxetine,Transport of small molecules
+fluoxymesterone,Signal Transduction
+flupentixol,Signal Transduction
+fluphenazine,Signal Transduction
+flupirtine,Neuronal System
+fluprazine,Signal Transduction
+flurbiprofen-(+/-),Metabolism
+flurbiprofen-(s)-(+),Metabolism
+flurizan,Signal Transduction
+fluspirilene,Signal Transduction
+flutamide,Metabolism
+fluticasone-propionate,Signal Transduction
+fluvastatin,Developmental Biology
+fluvoxamine,Neurotransmitter clearance
+fmk,Unknown
+folic-acid,Metabolism
+fomepizole,Metabolism
+fondaparinux,Hemostasis
+foretinib,Signal Transduction
+formestane,Metabolism
+formononetin,Metabolism
+formoterol,Signal Transduction
+forodesine,Metabolism
+foropafant,Cytokine Signaling in Immune system
+forskolin,Metabolism
+fosaprepitant-dimeglumine,Signal Transduction
+fosbretabulin,Cell-Cell communication
+fosfosal,Metabolism
+fosinopril,Metabolism of Angiotensinogen to Angiotensins
+fosphenytoin,Developmental Biology
+fostamatinib,Hemostasis
+foxy-5,Signal Transduction
+fpl-64176,Developmental Biology
+fps-zm1,Cytokine Signaling in Immune system
+fr-139317,Signal Transduction
+fr-180204,Apoptosis
+frax486,Developmental Biology
+freselestat,Collagen degradation
+frovatriptan,Signal Transduction
+fruquintinib,Extracellular matrix organization
+fs106,Signaling by SCF-KIT
+fs112,Unknown
+fti-277,Unknown
+ftorafur,Metabolism
+fty-720,Unknown
+fulvestrant,Signal Transduction
+fumagillin,Visual phototransduction
+fumonisin-b1,Metabolism
+furamidine,Signal Transduction
+furegrelate,Metabolism
+furosemide,Transport of small molecules
+g-1,Signal Transduction
+g-15,Signal Transduction
+g007-lk,PIP3 activates AKT signaling
+gabapentin,Transmission across Chemical Synapses
+gabapentin-enacarbil,Transmission across Chemical Synapses
+gabazine,Neurotransmitter receptors and postsynaptic signal transmission
+gabexate,Degradation of the extracellular matrix
+gaboxadol,Neurotransmitter receptors and postsynaptic signal transmission
+galantamine,Transmission across Chemical Synapses
+galeterone,Signal Transduction
+gallamine-triethiodide,Transmission across Chemical Synapses
+gallic-acid,Metabolism
+gallopamil,Hemostasis
+gambogic-acid,Apoptosis
+gamma-aminobutyric-acid,Transmission across Chemical Synapses
+gamma-linolenic-acid,Metabolism
+ganaxolone,Neurotransmitter receptors and postsynaptic signal transmission
+ganetespib,Signaling by ERBB2
+gant-58,Signal Transduction
+gant-61,Signal Transduction
+garenoxacin,Transcription of E2F targets under negative control by DREAM complex
+gavestinel,Neurotransmitter receptors and postsynaptic signal transmission
+gbr-12935,Defective SLC6A3 causes Parkinsonism-dystonia infantile (PKDYS)
+gbr-13069,Defective SLC6A3 causes Parkinsonism-dystonia infantile (PKDYS)
+gdc-0068,Adaptive Immune System
+gdc-0152,Cytokine Signaling in Immune system
+gdc-0349,Hemostasis
+gdc-0810,Signaling by ERBB4
+gdc-0834,ER-Phagosome pathway
+gdc-0879,Spry regulation of FGF signaling
+gdc-0941,PIP3 activates AKT signaling
+gdc-0980,Disease
+gdc-0994,Apoptosis
+gdc0810,PIP3 activates AKT signaling
+gedunin,Signaling by ERBB2
+gefitinib,Signaling by ERBB2
+geldanamycin,Signaling by ERBB2
+gemcitabine,Metabolism
+gemcitabine-elaidate,Metabolism
+gemfibrozil,Metabolism
+genentech cpd 10,Cell Cycle
+geniposide,Metabolism
+genistein,Gene expression (Transcription)
+gentiopicrin,Neurotransmitter receptors and postsynaptic signal transmission
+genz-123346,Metabolism
+genz-644282,SUMOylation
+gestrinone,Signal Transduction
+gf109203x,Signal Transduction
+ggstop,Metabolism
+ggti-298,PIP3 activates AKT signaling
+gilteritinib,PI3K Cascade
+gimeracil,Metabolism
+ginkgolide-a,Neurotransmitter receptors and postsynaptic signal transmission
+ginkgolide-b,Neurotransmitter receptors and postsynaptic signal transmission
+ginsenoside-c-k,Cytokine Signaling in Immune system
+ginsenoside-re3,Neuronal System
+ginsenoside-rg3,Neuronal System
+givinostat,Signaling by NOTCH
+gk921,Unknown
+gka-50,Developmental Biology
+gkt137831,Disease
+glafenine,Developmental Biology
+glasdegib,Signal Transduction
+gliclazide,Disease
+glimepiride,Neuronal System
+glipizide,Neuronal System
+gliquidone,Neuronal System
+glpg0492,Signal Transduction
+glpg0492-r-enantiomer,Signal Transduction
+glucosamine,Cytokine Signaling in Immune system
+glutamine-(l),Metabolism
+glutathione,Metabolism
+glyburide,Metabolism
+glycitein,Unknown
+glycopyrrolate,Signal Transduction
+gm-1485,Downstream signaling events of B Cell Receptor (BCR)
+gmx1778,"BMAL1:CLOCK,NPAS2 activates circadian expression"
+gne-317,Unknown
+gnf-2,Signal Transduction
+gnf-5,Signal Transduction
+gnf-7,Developmental Biology
+gnti,Signal Transduction
+go-6983,Hemostasis
+golgicide-a,Disease
+golvatinib,Signal Transduction
+gonadorelin,Signal Transduction
+goserelin-acetate,Signal Transduction
+gossypol,Apoptosis
+gp1a,Signal Transduction
+gp2a,Signal Transduction
+gpbar-a,Signal Transduction
+gpi-1046,Downstream signaling events of B Cell Receptor (BCR)
+gpp-78,"BMAL1:CLOCK,NPAS2 activates circadian expression"
+gpr120-modulator-1,Signal Transduction
+gr-103691,Signal Transduction
+gr-113808,Signal Transduction
+gr-127935,Signal Transduction
+gr-144053,Hemostasis
+gr-159897,Signal Transduction
+gr-79236,Signal Transduction
+gr125487,Signal Transduction
+gr46611,Signal Transduction
+granisetron,Neurotransmitter receptors and postsynaptic signal transmission
+grapiprant,Signal Transduction
+griseofulvin,Developmental Biology
+gs-39783,Neurotransmitter receptors and postsynaptic signal transmission
+gs-6201,Signal Transduction
+gs-9620,Disease
+gs-9973,Hemostasis
+gsk-0660,Metabolism
+gsk-3-inhibitor-ix,Maturation of nucleoprotein
+gsk-37647,Signal Transduction
+gsk-j1,Developmental Biology
+gsk-j4,Developmental Biology
+gsk-lsd-1,Hemostasis
+gsk-lsd1,Unknown
+gsk-lsd1-2hcl,Unknown
+gsk0660,Metabolism
+gsk1059615,Hemostasis
+gsk1070916,Cell Cycle
+gsk1292263,Signal Transduction
+gsk1562590,Signal Transduction
+gsk163090,Signal Transduction
+gsk1838705a,Signal Transduction
+gsk1904529a,Signal Transduction
+gsk2110183,Apoptosis
+gsk2110183b,Apoptosis
+gsk2126458,PIP3 activates AKT signaling
+gsk2190915,Metabolism
+gsk2193874,Stimuli-sensing channels
+gsk2194069,Metabolism
+gsk2256098c,Unknown
+gsk2256294a,Metabolism
+gsk2276186c,Cytokine Signaling in Immune system
+gsk2330672,Metabolism
+gsk2334470,Generic Transcription Pathway
+gsk256066,Opioid Signalling
+gsk2578215a,Signal Transduction
+gsk2606414,Cytokine Signaling in Immune system
+gsk2636771,Hemostasis
+gsk269962,Developmental Biology
+gsk269962a,Developmental Biology
+gsk2801,Epigenetic regulation of gene expression
+gsk2816126,PIP3 activates AKT signaling
+gsk2830371,Generic Transcription Pathway
+gsk2830371a,Generic Transcription Pathway
+gsk2837808a,Aerobic respiration and respiratory electron transport
+gsk2879552,Hemostasis
+gsk319347a,Unknown
+gsk3337463a,Unknown
+gsk343,PIP3 activates AKT signaling
+gsk37647,Signal Transduction
+gsk3787,Metabolism
+gsk429286a,Developmental Biology
+gsk461364,Developmental Biology
+gsk503,PIP3 activates AKT signaling
+gsk591,Unknown
+gsk626616ac,G0 and Early G1
+gsk650394,Stimuli-sensing channels
+gsk690693,Signal Transduction
+gsk9027,Signal Transduction
+gsk923295,Hemostasis
+gtp-14564,PIP3 activates AKT signaling
+gts21,Neurotransmitter receptors and postsynaptic signal transmission
+guanaben-acetate,Hemostasis
+guanadrel,Disease
+guanethidine,Disease
+guanfacine,Hemostasis
+guanidine,Transmission across Chemical Synapses
+guanidinoethyldisulfide-bicarbonate,Hemostasis
+guanosine,Metabolism
+gue-1654,Signal Transduction
+guvacine,Neurotransmitter release cycle
+gw-0742,Metabolism
+gw-1100,Metabolism
+gw-1929,PIP3 activates AKT signaling
+gw-2580,Cytokine Signaling in Immune system
+gw-311616,Collagen degradation
+gw-3965,Metabolism
+gw-405833,Signal Transduction
+gw-4064,Metabolism
+gw-438014a,Signal Transduction
+gw-441756,Signal Transduction
+gw-501516,Metabolism
+gw-542573x,Neuronal System
+gw-583340,Signaling by ERBB2
+gw-627368,Signal Transduction
+gw-6471,Developmental Biology
+gw-7647,Developmental Biology
+gw-788388,Signal Transduction
+gw-803430,Neuronal System
+gw-842166,Signal Transduction
+gw-843682x,Cell Cycle
+gw-9508,Signal Transduction
+gw-9662,Developmental Biology
+gw441756,Signal Transduction
+gw843682x,Developmental Biology
+gzd824,Signal Transduction
+h-89,Hemostasis
+h2l-5765834,Signal Transduction
+ha-130,Metabolism
+ha-966-(r)-(+),Neurotransmitter receptors and postsynaptic signal transmission
+ha-966-(s)-(-),Neurotransmitter receptors and postsynaptic signal transmission
+ha14-1,Apoptosis
+halcinonide,Signal Transduction
+halobetasol-propionate,Signal Transduction
+halofantrine,Neuronal System
+halofuginone,Developmental Biology
+halopemide,Metabolism
+haloperidol,Signal Transduction
+haloperidol-decanoate,Signal Transduction
+halothane,Neuronal System
+harmane,Amine Oxidase reactions
+hc-030031,Stimuli-sensing channels
+hc-067047,Stimuli-sensing channels
+heclin,Adaptive Immune System
+hemado,Signal Transduction
+hemomex-s,PIP3 activates AKT signaling
+hesperadin,Amplification of signal from the kinetochores
+hesperetin,"Plasma lipoprotein assembly, remodeling, and clearance"
+hesperidin,Amplification of signal from the kinetochores
+hexachlorophene,Metabolism
+hexamethonium,Neurotransmitter receptors and postsynaptic signal transmission
+hexamethylenebisacetamide,Apoptosis
+hexestrol,PIP3 activates AKT signaling
+hexoprenaline,Signal Transduction
+hexylcaine,Developmental Biology
+hexylresorcinol,Developmental Biology
+hg-5-113-01,Cell Cycle
+hg-5-88-01,Unknown
+hg-6-71-01,Extracellular matrix organization
+hg6-64-1,Spry regulation of FGF signaling
+higenamine,Signal Transduction
+histamine,Signal Transduction
+hjc-0350,Hemostasis
+hki-357,Signaling by ERBB2
+hlcl-61,snRNP Assembly
+hmn-214,Developmental Biology
+homatropine,Metabolism
+homatropine-methylbromide,Signal Transduction
+homochlorcyclizine,Signal Transduction
+homoharringtonine,Developmental Biology
+homoquinolinic-acid,Neurotransmitter receptors and postsynaptic signal transmission
+honokiol,Metabolism
+hth-01-015,Generic Transcription Pathway
+htmt,Signal Transduction
+huperzine-a,Neurotransmitter clearance
+hydralazine,Metabolism
+hydrochlorothiazide,Metabolism
+hydrocortisone,Cytokine Signaling in Immune system
+hydrocortisone-acetate,Generic Transcription Pathway
+hydrocortisone-butyrate,Signal Transduction
+hydrocortisone-phosphate,Cytokine Signaling in Immune system
+hydroflumethiazide,Transport of small molecules
+hydroxyamphetamine,Signal Transduction
+hydroxychloroquine,Disease
+hydroxyfasudil,Hemostasis
+hydroxyprogesterone,Signaling by ERBB4
+hydroxyprogesterone-acetate,Signaling by ERBB4
+"hydroxytacrine-maleate-(r,s)",Neurotransmitter clearance
+hydroxyurea,Metabolism
+hydroxyzine,Signal Transduction
+hymecromone,Amine Oxidase reactions
+hyoscyamine,Signal Transduction
+hyperin,Metabolism of Angiotensinogen to Angiotensins
+hypoestoxide,Cytokine Signaling in Immune system
+hypoxanthine,Metabolism
+i-bet-151,Generic Transcription Pathway
+i-bet-762,Generic Transcription Pathway
+i-bet151,Generic Transcription Pathway
+i-brd9,Chromatin organization
+i-cbp-112,Regulation of gene expression by Hypoxia-inducible Factor
+i-cbp112,Regulation of gene expression by Hypoxia-inducible Factor
+iap_5620,Unknown
+iap_7638,Unknown
+ib-meca,Signal Transduction
+ibandronate,Metabolism
+ibc-293,Signal Transduction
+ibmx,Signal Transduction
+ibotenic-acid,Neurotransmitter receptors and postsynaptic signal transmission
+ibrolipim,Developmental Biology
+ibrutinib,Adaptive Immune System
+ibudilast,Signal Transduction
+ibuprofen,Metabolism
+ibuprofen-(s),Metabolism
+ibuprofen-piconol,Metabolism
+ibuproxam,Cytokine Signaling in Immune system
+ibutamoren,Prolactin receptor signaling
+ibutilide,Neuronal System
+ic-87114,Unknown
+ica-069673,Neuronal System
+ica-110381,Neuronal System
+ica-121431,Developmental Biology
+icariin,Hemostasis
+icaritin,Hemostasis
+icatibant-acetate,Innate Immune System
+icg-001,Apoptosis
+"ici-118,551",Signal Transduction
+ici-162846,Signal Transduction
+ici-192605,Hemostasis
+ici-199441,Signal Transduction
+"ici-215,001",Signal Transduction
+ici-89406,Signal Transduction
+icl-sirt078,Unknown
+icl1100013,Unknown
+icomucret,Signal Transduction
+icosapent,Metabolism
+icotinib,Signaling by ERBB2
+icrt-14,Developmental Biology
+id-1101,PIP3 activates AKT signaling
+idalopirdine,Signal Transduction
+idarubicin,Transcription of E2F targets under negative control by DREAM complex
+idasanutlin,PIP3 activates AKT signaling
+idazoxan,Metabolism
+idazoxane,Hemostasis
+idelalisib,PIP3 activates AKT signaling
+ido5l,Metabolism
+idra-21,Neurotransmitter receptors and postsynaptic signal transmission
+idronoxil,Antimicrobial mechanism of IFN-stimulated genes
+iem1460,Neurotransmitter receptors and postsynaptic signal transmission
+iem1754,Neurotransmitter receptors and postsynaptic signal transmission
+ifenprodil,Neurotransmitter receptors and postsynaptic signal transmission
+ifosfamide,Metabolism
+igf1r_3801,Unknown
+igfr_3801,Unknown
+igmesine,Disease
+iguratimod,Cytokine Signaling in Immune system
+ikk-16,Downstream signaling events of B Cell Receptor (BCR)
+ikk-2-inhibitor,Downstream signaling events of B Cell Receptor (BCR)
+ikk-2-inhibitor-v,Downstream signaling events of B Cell Receptor (BCR)
+ilomastat,Degradation of the extracellular matrix
+iloperidone,Signal Transduction
+imatinib,Signal Transduction
+imd-0354,Unknown
+imetit,Signal Transduction
+imexon,Metabolism
+imidacloprid,Neurotransmitter receptors and postsynaptic signal transmission
+imidafenacin,Signal Transduction
+imidapril,Metabolism of Angiotensinogen to Angiotensins
+imiloxan,Hemostasis
+imipramine,Signal Transduction
+imiquimod,Disease
+immepip,Signal Transduction
+immethridine,Signal Transduction
+impentamine,Signal Transduction
+inc-280,PIP3 activates AKT signaling
+incb-024360,Metabolism
+incb-3284,Cytokine Signaling in Immune system
+indacaterol,Signal Transduction
+indalpine,Neurotransmitter clearance
+indapamide,Transport of small molecules
+indatraline,Amine Oxidase reactions
+indeglitazar,Metabolism
+indinavir,Metabolism
+indiplon,Neurotransmitter receptors and postsynaptic signal transmission
+indirubin,Signal Transduction
+indirubin-3-monoxime,Signal Transduction
+indisulam,Metabolism
+indobufen,Metabolism
+indocyanine-green,Metabolism
+indole-3-carbinol,Metabolism
+indomethacin,Metabolism
+indoprofen,Immune System
+indoramin,Signal Transduction
+indoximod,Metabolism
+ingenol,Hemostasis
+ingenol-mebutate,Hemostasis
+inh1,Amplification of signal from the kinetochores
+iniparib,POLB-Dependent Long Patch Base Excision Repair
+inosine,Disease
+inositol,Metabolism
+int-767,Signal Transduction
+integrin-antagonist-1,Extracellular matrix organization
+iodipamide,Hemostasis
+iodophenpropit,Signal Transduction
+iowh032,Developmental Biology
+iox1,HDMs demethylate histones
+iox2,HDMs demethylate histones
+ipa-3,Developmental Biology
+ipatasertib,Apoptosis
+ipi-145,PIP3 activates AKT signaling
+ipidacrine,Neurotransmitter clearance
+ipragliflozin-l-proline,Disease
+ipratropium,Signal Transduction
+iproniazid,Amine Oxidase reactions
+ipsapirone,Signal Transduction
+irak4_4710,PIP3 activates AKT signaling
+irbesartan,Signal Transduction
+irinotecan,SUMOylation
+irl-2500,Developmental Biology
+irosustat,Metabolism
+irsogladine,Opioid Signalling
+isamoltane,Signal Transduction
+isavuconazole,Metabolism
+iso-1,Hemostasis
+isobutyramide,Hemostasis
+isoconazole,Metabolism
+isoetharine,Signal Transduction
+isoflupredone-acetate,Signal Transduction
+isoflurane,Neuronal System
+isoflurophate,Neurotransmitter clearance
+isoguvacine,Neurotransmitter receptors and postsynaptic signal transmission
+isoleucine,Metabolism
+isoliquiritigenin,Neurotransmitter receptors and postsynaptic signal transmission
+isometheptene-mucate,Signal Transduction
+isoniazid,Metabolism
+isoprenaline,Signal Transduction
+isopropamide-iodide,Signal Transduction
+isosorbide-mononitrate,Hemostasis
+isoxicam,Metabolism
+isoxsuprine,Signal Transduction
+ispinesib,Hemostasis
+ispinesib mesylate,Unknown
+isradipine,Developmental Biology
+isrib,Cytokine Signaling in Immune system
+istaroxime,Disease
+istradefylline,Signal Transduction
+isx-9,Developmental Biology
+it1t,Developmental Biology
+itacitinib,Interleukin-6 signaling
+itd-1,Signal Transduction
+ite,Metabolism
+iti214,Hemostasis
+itopride,Signal Transduction
+itraconazole,Developmental Biology
+itx3,Developmental Biology
+iu1,Cytokine Signaling in Immune system
+ivabradine,Neuronal System
+ivacaftor,Developmental Biology
+ivermectin,Neurotransmitter receptors and postsynaptic signal transmission
+ivosidenib,Metabolism
+iwp-2,Signal Transduction
+iwp-l6,Signal Transduction
+ixabepilone,Cell Cycle
+jak1_3715,Interleukin-6 signaling
+jak1_8709,Interleukin-6 signaling
+jak3_7406,Interleukin-7 signaling
+jak_8517,Interleukin-6 signaling
+jdtic,Signal Transduction
+jhw-007,Defective SLC6A3 causes Parkinsonism-dystonia infantile (PKDYS)
+jib04,Developmental Biology
+jnj-10191584,Signal Transduction
+jnj-10397049,Signal Transduction
+jnj-16259685,Neuronal System
+jnj-1661010,Metabolism
+jnj-17203212,Stimuli-sensing channels
+jnj-26481585,Signal Transduction
+jnj-27141491,Cytokine Signaling in Immune system
+jnj-37822681,Signal Transduction
+jnj-38877605,PIP3 activates AKT signaling
+jnj-40411813,Signal Transduction
+jnj-42041935,Aerobic respiration and respiratory electron transport
+jnj-42165279,Metabolism
+jnj-47965567,Hemostasis
+jnj-63533054,Unknown
+jnj-7706621,Cell Cycle
+jnj-7777120,Signal Transduction
+jnj38877605,PIP3 activates AKT signaling
+jnk inhibitor viii,Unknown
+jnk-9l,Unknown
+jq1,Generic Transcription Pathway
+jq1-(+),Adaptive Immune System
+jq12,Hemostasis
+jtc-801,Signal Transduction
+jte-013,Signal Transduction
+jte-607,Cytokine Signaling in Immune system
+jte-907,Signal Transduction
+jw-55,PIP3 activates AKT signaling
+jw-642,Hemostasis
+jw-67,Signal Transduction
+jw-7-24-1,Hemostasis
+jw-7-52-1,PIP3 activates AKT signaling
+jw-74,PIP3 activates AKT signaling
+jx-401,Hemostasis
+jzl-184,Hemostasis
+jzl-195,Metabolism
+k-858,Hemostasis
+k-ras(g12c)-inhibitor-12,Hemostasis
+k-strophanthidin,Disease
+k02288,Degradation of the extracellular matrix
+k145,Metabolism
+kaempferol,Metabolism
+kainic-acid,Neurotransmitter receptors and postsynaptic signal transmission
+karenitecin,SUMOylation
+kartogenin,Hemostasis
+kb nb 142-70,Unknown
+kb-r7943,Transport of small molecules
+kb-src-4,Hemostasis
+kbg,Developmental Biology
+kd-023,Metabolism
+kd025,Developmental Biology
+kenpaullone,Generic Transcription Pathway
+ketanserin,Signal Transduction
+ketoconazole,Metabolism
+ketoprofen,Metabolism
+ketorolac,Metabolism
+ketotifen,Signal Transduction
+ketotifen (fumarate),Signal Transduction
+kf-38789,Hemostasis
+kg-5,Signal Transduction
+khk-in-1,Metabolism
+khs-101,Signaling by NOTCH
+ki-16425,Signal Transduction
+ki-20227,Signal Transduction
+ki-8751,Extracellular matrix organization
+ki16198,"Plasma lipoprotein assembly, remodeling, and clearance"
+kifunensine,Disease
+kin001-042,Maturation of nucleoprotein
+kin001-236,Signaling by NOTCH
+kin001-244,Aerobic respiration and respiratory electron transport
+kin001-260,Cell Cycle
+kin001-266,Cell Cycle
+kin001-270,Formation of RNA Pol II elongation complex 
+kl-001,Circadian clock
+kml29,Hemostasis
+kn-62,Signal Transduction
+kn-93,Opioid Signalling
+ko143,Transport of small molecules
+kobe2602,Unknown
+kpt-185,Developmental Biology
+kpt-276,Developmental Biology
+kras (g12c) inhibitor-12,Unknown
+krca-0008,Signal Transduction
+krn-633,Signal Transduction
+ks-176,Developmental Biology
+ku-0063794,PIP3 activates AKT signaling
+ku-55933,DNA Double-Strand Break Repair
+ku-60019,Reproduction
+kuromanin,Metabolism
+kw-2449,Signal Transduction
+kw-3902,Signal Transduction
+kx2-391,Hemostasis
+ky02111,Signal Transduction
+kynurenic-acid,Signal Transduction
+l-152804,Signal Transduction
+l-161982,Signal Transduction
+l-165041,Metabolism
+l-168049,Metabolism
+l-365260,Signal Transduction
+l-368899,Signal Transduction
+"l-655,708",Neurotransmitter receptors and postsynaptic signal transmission
+l-655240,Metabolism
+l-689560,Neurotransmitter receptors and postsynaptic signal transmission
+l-693403,Signal Transduction
+l-694247,Signal Transduction
+l-701252,Neurotransmitter receptors and postsynaptic signal transmission
+l-701324,Neurotransmitter receptors and postsynaptic signal transmission
+"l-732,138",Signal Transduction
+l-733060,Signal Transduction
+l-741742,Signal Transduction
+l-745870,Signal Transduction
+l-755507,Signal Transduction
+l-760735,Signal Transduction
+l-778123,Antimicrobial mechanism of IFN-stimulated genes
+"l-798,106",Signal Transduction
+l-798106,Signal Transduction
+l-838417,Neurotransmitter receptors and postsynaptic signal transmission
+l-arginine,Metabolism
+l-aspartic-acid,Metabolism
+l-citrulline,Chromatin modifying enzymes
+l-cysteinesulfinic-acid,RNA Polymerase II Transcription
+l-cystine,Transport of small molecules
+l-glutamic-acid,Metabolism
+l-glutamine,Metabolism
+l-methionine,Metabolism
+l-name,Hemostasis
+l-nil,Hemostasis
+l-proline,Disease
+l-quisqualic-acid,Signal Transduction
+l-valine,Metabolism
+labetalol,Signal Transduction
+lacidipine,Developmental Biology
+lacosamide,Developmental Biology
+lafutidine,Signal Transduction
+lamotrigine,Developmental Biology
+landiolol,Signal Transduction
+lansoprazole,Transport of small molecules
+lapatinib,Signaling by ERBB2
+laquinimod,Cytokine Signaling in Immune system
+laropiprant,Signal Transduction
+larotrectinib,Signal Transduction
+lasofoxifene,PIP3 activates AKT signaling
+latanoprost,Signal Transduction
+latrepirdine,Signal Transduction
+lazabemide,Amine Oxidase reactions
+lcl-161,Apoptosis
+lcl161,Unknown
+lcq908,Metabolism
+ldc1267,Disease
+ldn-193189,Unknown
+ldn-212854,Signal Transduction
+ldn-27219,Unknown
+ldn193189,Signal Transduction
+le-135,Developmental Biology
+leflunomide,Metabolism
+lemborexant,Signal Transduction
+lenalidomide,Cytokine Signaling in Immune system
+lenvatinib,Signal Transduction
+lercanidipine,Presynaptic depolarization and calcium channel opening
+lerisetron,Neurotransmitter receptors and postsynaptic signal transmission
+lesinurad,Disease
+lestaurtinib,Signal Transduction
+letrozole,Metabolism
+leucovorin,Metabolism
+leuprolide,Signal Transduction
+levalbuterol,Signal Transduction
+levallorphan,Neurotransmitter receptors and postsynaptic signal transmission
+levamisole,Post-translational modification: synthesis of GPI-anchored proteins
+levcromakalim,Neurotransmitter receptors and postsynaptic signal transmission
+levetiracetam,Presynaptic depolarization and calcium channel opening
+levo-phencynonate,Signal Transduction
+levobetaxolol,Signal Transduction
+levobunolol,Signal Transduction
+levocabastine,Signal Transduction
+levocarnitine,Metabolism
+levocetirizine,Signal Transduction
+levodopa,Signal Transduction
+levofloxacin,Transcription of E2F targets under negative control by DREAM complex
+levomepromazine,Signal Transduction
+levomequitazine,Signal Transduction
+levonorgestrel,Signal Transduction
+levosimendan,Neuronal System
+levosulpiride,Metabolism
+levothyroxine,Generic Transcription Pathway
+lfm-a13,ER-Phagosome pathway
+lgk-974,Signal Transduction
+lgk974,Signal Transduction
+lgx818,Spry regulation of FGF signaling
+lh846,Cell Cycle
+liarozole,Metabolism
+licarbazepine,Developmental Biology
+licochalcone-a,Hemostasis
+lidocaine,Developmental Biology
+lidoflazine,Developmental Biology
+ligustilide,Unknown
+limaprost-alfadex,Signal Transduction
+limk1 inhibitor bms4,Developmental Biology
+limki-3,Developmental Biology
+linagliptin,Peptide hormone metabolism
+linezolid,Amine Oxidase reactions
+linifanib,Signal Transduction
+linopirdine,Neuronal System
+linsitinib,Signal Transduction
+liothyronine,Generic Transcription Pathway
+liraglutide,Metabolism
+lisinopril,Metabolism of Angiotensinogen to Angiotensins
+lisuride,Signal Transduction
+lithium-acetoacetate,Metabolism
+lithocholic-acid,Generic Transcription Pathway
+litronesib,Hemostasis
+lixivaptan,Signal Transduction
+lji308,Unknown
+lm-22a4,PIP3 activates AKT signaling
+lm11a-31,Unknown
+lmb_ab1,Signal Transduction
+lmb_ab2,Unknown
+lmb_ab3,Unknown
+lmi070,Disease
+lmk-235,Signaling by NOTCH
+lmp744,SUMOylation
+lofexidine,Hemostasis
+lomefloxacin,Transcription of E2F targets under negative control by DREAM complex
+lomeguatrib,MGMT-mediated DNA damage reversal
+lomerizine,Presynaptic depolarization and calcium channel opening
+lomitapide,"Plasma lipoprotein assembly, remodeling, and clearance"
+lonafarnib,Cytokine Signaling in Immune system
+lonidamine,Developmental Biology
+loperamide,Signal Transduction
+loratadine,Signal Transduction
+lorazepam,Neurotransmitter receptors and postsynaptic signal transmission
+lorcaserin,Signal Transduction
+loreclezole,Neurotransmitter receptors and postsynaptic signal transmission
+lorediplon,Neurotransmitter receptors and postsynaptic signal transmission
+lorglumide,Signal Transduction
+lorlatinib,Signal Transduction
+lornoxicam,Metabolism
+losartan,Signal Transduction
+losmapimod,Hemostasis
+loteprednol,Signal Transduction
+lovastatin,Generic Transcription Pathway
+loxapine,Signal Transduction
+loxistatin-acid,Adaptive Immune System
+loxo-101,Signal Transduction
+loxoprofen,Cytokine Signaling in Immune system
+lpa2-antagonist-1,Signal Transduction
+lrrk2-in-1,Signal Transduction
+lsn-2463359,Neuronal System
+ltb4,Signal Transduction
+lu-aa-47070,Signal Transduction
+lubiprostone,Stimuli-sensing channels
+lucanthone,SUMOylation
+lucitanib,Signal Transduction
+luf-5834,Signal Transduction
+lumacaftor,Developmental Biology
+lumateperone,Signal Transduction
+luminespib,Unknown
+lumiracoxib,Metabolism
+lupanine,PIP3 activates AKT signaling
+lurasidone,Signal Transduction
+luteolin,SUMOylation
+luzindole,Signal Transduction
+lx1031,Metabolism
+lx7101,Developmental Biology
+lxr-623,Generic Transcription Pathway
+ly2090314,Maturation of nucleoprotein
+ly2109761,Signal Transduction
+ly2140023,Signal Transduction
+ly215490,Neurotransmitter receptors and postsynaptic signal transmission
+ly2157299,Signal Transduction
+ly2183240,Metabolism
+ly2228820,Hemostasis
+ly223982,Signal Transduction
+ly225910,Signal Transduction
+ly2365109,Transport of small molecules
+ly2452473,Signal Transduction
+ly255283,Signal Transduction
+ly2584702,Signal Transduction
+ly2603618,Signaling by SCF-KIT
+ly2606368,Signaling by SCF-KIT
+ly2608204,Developmental Biology
+ly266097,Signal Transduction
+ly2784544,Cytokine Signaling in Immune system
+ly2801653,PIP3 activates AKT signaling
+ly2811376,Metabolism of proteins
+ly2857785,Formation of RNA Pol II elongation complex 
+ly2874455,Signal Transduction
+ly288513,Signal Transduction
+ly2886721,Metabolism of proteins
+ly294002,Signal Transduction
+ly2979165,Signal Transduction
+ly3000328,Antigen processing-Cross presentation
+ly3009120,Signal Transduction
+ly3023414,PIP3 activates AKT signaling
+ly303511,Generic Transcription Pathway
+ly310762,Signal Transduction
+ly320135,Signal Transduction
+ly344864,Signal Transduction
+ly364947,Signal Transduction
+ly404187,Neurotransmitter receptors and postsynaptic signal transmission
+ly456236,Neuronal System
+lylamine,Signal Transduction
+lypressin,Signal Transduction
+m-14157,Neuronal System
+m-25,Signal Transduction
+m-344,Signaling by NOTCH
+m-3m3fbs,Metabolism
+m-chlorophenylbiguanide,Neurotransmitter receptors and postsynaptic signal transmission
+m8-b,Stimuli-sensing channels
+mabuterol,Signal Transduction
+macitentan,Signal Transduction
+mafenide,Metabolism
+magnolol,Signal Transduction
+malic-acid,Aerobic respiration and respiratory electron transport
+manidipine,Developmental Biology
+maprotiline,Signal Transduction
+maraviroc,Cytokine Signaling in Immune system
+maribavir,Metabolism
+marimastat,Degradation of the extracellular matrix
+maropitant,Signal Transduction
+masitinib,PIP3 activates AKT signaling
+masoprocol,Cytokine Signaling in Immune system
+matrine,Signal Transduction
+mavoglurant,Neuronal System
+maxacalcitol,Metabolism
+mazindol,Transport of small molecules
+mbx-2982,Peptide hormone metabolism
+mc1568,Hemostasis
+mcoppb,Signal Transduction
+mcpp,Signal Transduction
+mct1_6447,Unknown
+mct4_1422,Unknown
+md-920,Unknown
+mdivi-1,Developmental Biology
+mdl-11939,Signal Transduction
+mdl-29951,Metabolism
+mdl-72832,Signal Transduction
+mdl-73005ef,Signal Transduction
+me-0328,Unknown
+me0328,Unknown
+mebendazole,Cell Cycle
+mebeverine,Signal Transduction
+mecamylamine,Neurotransmitter receptors and postsynaptic signal transmission
+meclinertant,Signal Transduction
+meclizine,Signal Transduction
+meclofenamic-acid,Metabolism
+medetomidine,Signal Transduction
+medica-16,Metabolism
+medroxyprogesterone,Signaling by ERBB4
+medrysone,Signal Transduction
+mefenamic-acid,Metabolism
+mefloquine,Signal Transduction
+megestrol-acetate,Signal Transduction
+meglitinide,Cytokine Signaling in Immune system
+meglutol,Developmental Biology
+meisoindigo,Interleukin-6 signaling
+mek1-2-inhibitor,RAF-independent MAPK1/3 activation
+mek162,RAF-independent MAPK1/3 activation
+melatonin,Signal Transduction
+melevodopa,Metabolism
+meloxicam,Metabolism
+melperone,Signal Transduction
+memantine,Neurotransmitter receptors and postsynaptic signal transmission
+menadione,Gamma-carboxylation of protein precursors
+menadione-bisulfite,Metabolism
+mepacrine,Metabolism
+mepazine,Unknown
+mepenzolate,Signal Transduction
+mephentermine,Signal Transduction
+mephenytoin,Developmental Biology
+mepivacaine,Developmental Biology
+meprobamate,Neurotransmitter receptors and postsynaptic signal transmission
+meptazinol,Neurotransmitter clearance
+mepyramine,Signal Transduction
+mequinol,Developmental Biology
+merbarone,Transcription of E2F targets under negative control by DREAM complex
+mercaptopurine,Metabolism
+merck60,Hemostasis
+merimepodib,Metabolism
+mesalazine,Immune System
+mesoridazine,Signal Transduction
+mestinon,Neurotransmitter clearance
+mestranol,Signaling by ERBB4
+mesulergine,Signal Transduction
+metacresol,PIP3 activates AKT signaling
+metamizole,COX reactions
+"metap2 inhibitor, a832234",Unknown
+metaproterenol,Signal Transduction
+metaraminol,Signal Transduction
+metatinib,Signal Transduction
+metazosin,Signal Transduction
+metenkephalin,Cytokine Signaling in Immune system
+metergoline,Signal Transduction
+metformin,Metabolism
+methacholine,Signal Transduction
+methanesulfonyl-fluoride,Neurotransmitter clearance
+methantheline,Signal Transduction
+methapyrilene,Signal Transduction
+metharbital,Neurotransmitter receptors and postsynaptic signal transmission
+methazolamide,Metabolism
+methimazole,Metabolism
+methiopril,Metabolism of Angiotensinogen to Angiotensins
+methocarbamol,Erythrocytes take up carbon dioxide and release oxygen
+methotrexate,Metabolism
+methoxamine,Signal Transduction
+methoxsalen,Metabolism
+methoxyamine,Displacement of DNA glycosylase by APEX1
+methoxyflurane,Neuronal System
+methscopolamine,Signal Transduction
+methsuximide,Developmental Biology
+methyclothiazide,Transport of small molecules
+methyl-aminolevulinate,Antigen processing-Cross presentation
+methylatropine-nitrate,Signal Transduction
+methyldopa,Hemostasis
+methylergometrine,Signal Transduction
+methyllycaconitine,Neurotransmitter receptors and postsynaptic signal transmission
+methylnaltrexone,Signal Transduction
+methylphenidate,Transport of small molecules
+methylprednisolone,Signal Transduction
+methylprednisolone-aceponate,Signal Transduction
+methysergide,Signal Transduction
+metipranolol,Signal Transduction
+metirosine,Metabolism
+metitepine,Signal Transduction
+metixene,Signal Transduction
+metoclopramide,Signal Transduction
+metocurine,Signal Transduction
+metolazone,Disease
+metoprolol,Signal Transduction
+metoxibutropate,Metabolism
+metronidazole,Metabolism
+metyrapone,Metabolism
+mevastatin,Developmental Biology
+mexiletine,Developmental Biology
+mf-101,Metabolism
+mg-132,Developmental Biology
+mg-624,Neurotransmitter receptors and postsynaptic signal transmission
+mgcd-265,Signal Transduction
+mi-14,Metabolism
+mianserin,Signal Transduction
+mibampator,Neurotransmitter receptors and postsynaptic signal transmission
+mibefradil,Developmental Biology
+miconazole,Neuronal System
+midafotel,Neurotransmitter receptors and postsynaptic signal transmission
+midodrine,Signal Transduction
+midostaurin,Signal Transduction
+mifepristone,Generic Transcription Pathway
+mifobate,PIP3 activates AKT signaling
+miglitol,Disease
+miglustat,Metabolism
+milacemide,Amine Oxidase reactions
+milnacipran,Transmission across Chemical Synapses
+milrinone,Signal Transduction
+miltefosine,Developmental Biology
+mim1,Cytokine Signaling in Immune system
+minaprine,Signal Transduction
+minocycline,Cytokine Signaling in Immune system
+minoxidil,Neuronal System
+mira-1,Apoptosis
+mirabegron,Signal Transduction
+mirin,Reproduction
+mirodenafil,Hemostasis
+mirtazapine,Signal Transduction
+misoprostol,Signal Transduction
+mitiglinide,Neuronal System
+mitoflaxone,Hemostasis
+mitomycin-c,Unknown
+mitotane,Disease
+mitoxantrone,Transcription of E2F targets under negative control by DREAM complex
+mizolastine,Signal Transduction
+mizoribine,Metabolism
+mj-15,Signal Transduction
+mk-0354,Signal Transduction
+mk-0773,Signal Transduction
+mk-0812,Cytokine Signaling in Immune system
+mk-0893,Metabolism
+mk-1775,Polo-like kinase mediated events
+mk-2206,Apoptosis
+mk-2295,Stimuli-sensing channels
+mk-2461,Signal Transduction
+mk-2894,Signal Transduction
+mk-3207,Signal Transduction
+mk-3697,Signal Transduction
+mk-5046,Signal Transduction
+mk-5108,Cell Cycle
+mk-571,Disease
+mk-6096,Signal Transduction
+mk-8033,PIP3 activates AKT signaling
+mk-8245,Metabolism
+mk-8745,Cell Cycle
+mk-8776,Cell Cycle
+mk2-in-1,Cytokine Signaling in Immune system
+ml-179,Developmental Biology
+ml-193,Signal Transduction
+ml-213,Neuronal System
+ml-228,Regulation of gene expression by Hypoxia-inducible Factor
+ml-277,Neuronal System
+ml-281,Unknown
+ml-323,Recognition of DNA damage by PCNA-containing replication complex
+ml-3403,Developmental Biology
+ml-348,Metabolism
+ml-365,Neuronal System
+ml-9,Hemostasis
+ml10302,Neurotransmitter receptors and postsynaptic signal transmission
+ml141,Hemostasis
+ml167,Unknown
+ml179,Developmental Biology
+ml193,Signal Transduction
+ml204,Developmental Biology
+ml213,Neuronal System
+ml218,Developmental Biology
+ml228,Regulation of gene expression by Hypoxia-inducible Factor
+ml277,Neuronal System
+ml281,Unknown
+ml298,Metabolism
+ml314,Signal Transduction
+ml323,Recognition of DNA damage by PCNA-containing replication complex
+ml324,Signal Transduction
+ml3403,Developmental Biology
+ml347,Signal Transduction
+ml348,Metabolism
+ml365,Neuronal System
+ml786,Signal Transduction
+ml9,Hemostasis
+mln-8054,Cell Cycle
+mln0128,PIP3 activates AKT signaling
+mln1117,Hemostasis
+mln8054,Cell Cycle
+mm-11253,Developmental Biology
+mm77,Signal Transduction
+mn-64,PIP3 activates AKT signaling
+"mns-(3,4-methylenedioxy-nitrostyrene)",Hemostasis
+mocetinostat,Signaling by NOTCH
+moclobemide,Amine Oxidase reactions
+moexipril,Metabolism of Angiotensinogen to Angiotensins
+mofegiline,Amine Oxidase reactions
+mofezolac,COX reactions
+molidustat,Cellular response to hypoxia
+molindone,Signal Transduction
+molsidomine,Unknown
+mometasone-furoate,Signal Transduction
+monastrol,Hemostasis
+monobenzone,Developmental Biology
+montelukast,Cytokine Signaling in Immune system
+moracizine,Developmental Biology
+morin,Disease
+morinidazole,Developmental Biology
+mosapride,Signal Transduction
+motesanib,Signal Transduction
+motolimod,Disease
+moxifloxacin,Transcription of E2F targets under negative control by DREAM complex
+moxonidine,Hemostasis
+mozavaptan,Signal Transduction
+mpep,Signal Transduction
+mpi-0479605,Unknown
+mps-1-in-1,Unknown
+mps-bay-2a,Unknown
+mps1-in-1,Unknown
+mr-948,Metabolism
+mrk-016,Neurotransmitter receptors and postsynaptic signal transmission
+mrk-560,Hemostasis
+mrs-1220,Signal Transduction
+mrs-1334,Signal Transduction
+mrs-3777,Signal Transduction
+mrs3777,Signal Transduction
+msx-122,Developmental Biology
+mtpg,Signal Transduction
+mubritinib,Signaling by ERBB2
+muscimol,Neurotransmitter receptors and postsynaptic signal transmission
+my-5445,Hemostasis
+mycophenolate-mofetil,Metabolism
+mycophenolic-acid,Metabolism
+myricetin,Hemostasis
+myricitrin,Hemostasis
+n-acetyl cysteine,Unknown
+n-acetyl-d-glucosamine,Metabolism of proteins
+n-acetylmannosamine,Innate Immune System
+n-alpha-methylhistamine-dihydrochloride,Signal Transduction
+n-methylquipazine,Signal Transduction
+n22899-6-c1,Unknown
+n23918-95-7,Unknown
+n24798-49-a1,Unknown
+n6-cyclopentyladenosine,Signal Transduction
+n6022,Metabolism
+nab-2,ISG15 antiviral mechanism
+nabumetone,Metabolism
+nadide,Metabolism
+nafadotride,Signal Transduction
+nafamostat,Stimuli-sensing channels
+nafcillin,Metabolism
+naftifine,Metabolism
+naftopidil,Signal Transduction
+nalbuphine,Signal Transduction
+nalfurafine,Signal Transduction
+nalmefene,Signal Transduction
+naloxegol,Opioid Signalling
+naloxone,Signal Transduction
+naloxone-benzoylhydrazone,Signal Transduction
+naltrexone,Signal Transduction
+naltriben,Signal Transduction
+naltrindole,Signal Transduction
+nan-190,Signal Transduction
+nandrolone,Metabolism
+nandrolone-decanoate,Signal Transduction
+napabucasin,Interleukin-6 signaling
+naphazoline,Signal Transduction
+naproxen,Metabolism
+naratriptan,Signal Transduction
+naringenin,Metabolism
+naringeninic-acid,Signal Transduction
+naringin,Metabolism
+nas-181,Signal Transduction
+nastorazepide,Signal Transduction
+nateglinide,Neuronal System
+nav-26,Developmental Biology
+navarixin,Signal Transduction
+navitoclax,Apoptosis
+nbi-27914,Signal Transduction
+nbi-74330-(+/-),Developmental Biology
+nbqx,Neurotransmitter receptors and postsynaptic signal transmission
+ncs-382,Neurotransmitter receptors and postsynaptic signal transmission
+ndt-9513727,Signal Transduction
+ne-100,Disease
+nebivolol,Signal Transduction
+nebracetam,Signal Transduction
+neca,Signal Transduction
+necrostatin-1,Apoptosis
+necrostatin-2,Cytokine Signaling in Immune system
+nedocromil,Signal Transduction
+nefazodone,Signal Transduction
+nefiracetam,Signal Transduction
+nelarabine,Inhibition of replication initiation of damaged DNA by RB1/E2F1
+nelfinavir,Metabolism
+nemonapride,Signal Transduction
+nemorubicin,SUMOylation
+neostigmine,Neurotransmitter clearance
+nepafenac,Metabolism
+nepicastat,Metabolism
+neratinib,Signal Transduction
+neridronic-acid,Metabolism
+netupitant,Signal Transduction
+neuropathiazol,Extracellular matrix organization
+nevirapine,Metabolism
+nexturastat-a,Signaling by NOTCH
+nfkb-activation-inhibitor-ii,Downstream signaling events of B Cell Receptor (BCR)
+ng-25,Unknown
+ng-nitro-arginine,Hemostasis
+ngb-2904,Signal Transduction
+ngd-94-1,Signal Transduction
+ngd-98-2,Signal Transduction
+nhi-2,Aerobic respiration and respiratory electron transport
+ni-57,Generic Transcription Pathway
+niacin,Metabolism
+nialamide,Metabolism
+nicardipine,Signal Transduction
+nicergoline,Signal Transduction
+niclosamide,Interleukin-6 signaling
+nicorandil,Neuronal System
+nicotinamide,Metabolism
+nicotine,Transmission across Chemical Synapses
+nida-41020,Signal Transduction
+nifedipine,Neuronal System
+nifenalol,Signal Transduction
+niflumic-acid,Metabolism
+niguldipine-(s)-(+),Signal Transduction
+nilotinib,Developmental Biology
+nilutamide,Signal Transduction
+nilvadipine,Developmental Biology
+nimesulide,Metabolism
+nimodipine,Developmental Biology
+nintedanib,Signal Transduction
+niraparib,POLB-Dependent Long Patch Base Excision Repair
+nisoldipine,Developmental Biology
+nisoxetine,Transport of small molecules
+nitisinone,Metabolism
+nitrendipine,Developmental Biology
+nitrocaramiphen,Signal Transduction
+nizatidine,Signal Transduction
+nk-252,Adaptive Immune System
+nky-80,Opioid Signalling
+nlg919,Metabolism
+nmda,Neurotransmitter receptors and postsynaptic signal transmission
+nms-1286937,Signal Transduction
+nms-873,Attachment and Entry
+nn-dnj,Unknown
+nnc-05-2090,Neurotransmitter release cycle
+nnc-55-0396,Fertilization
+nnc-63-0532,Signal Transduction
+nnc-711,Disease
+nobiletin,MAPK3 (ERK1) activation
+nocodazole,Metabolism
+nolatrexed,Metabolism
+nomegestrol-acetate,Signaling by ERBB4
+nomifensine,Disease
+nonivamide,Stimuli-sensing channels
+nor-binaltorphimine,Signal Transduction
+nor-binaltorphimine-dihydrochloride,Signal Transduction
+norelgestromin,Signaling by ERBB4
+norepinephrine,Signal Transduction
+norethindrone,Signaling by ERBB4
+noretynodrel,Signaling by ERBB4
+norfloxacin,Transcription of E2F targets under negative control by DREAM complex
+norfluoxetine,Signal Transduction
+norgestrel,Signal Transduction
+nortriptyline,Signal Transduction
+noscapine,Disease
+nov-002,Metabolism
+npc-15199,PIP3 activates AKT signaling
+npk76-ii-72-1,Cell Cycle
+nppb,Stimuli-sensing channels
+nps-2143,Signal Transduction
+npy-5ra972,Signal Transduction
+nqdi-1,Unknown
+ns-018,Cytokine Signaling in Immune system
+ns-1643,Neuronal System
+ns-19504,Hemostasis
+ns-309,Neuronal System
+ns-3623,Neuronal System
+ns-5806,Neuronal System
+ns-8593,Neuronal System
+ns-9283,Neurotransmitter receptors and postsynaptic signal transmission
+nsc-207895,Cell Cycle
+nsc-3852,Hemostasis
+nsc-405020,Hemostasis
+nsc-4644,Metabolism
+nsc-5844,Cytokine Signaling in Immune system
+nsc-632839,Metabolism of proteins
+nsc-636819,Signal Transduction
+nsc-663284,Cell Cycle
+nsc-697923,ISG15 antiviral mechanism
+nsc-87877,Unknown
+nsc-9965,Neurotransmitter receptors and postsynaptic signal transmission
+nsc319726,Unknown
+nsc5844,Cytokine Signaling in Immune system
+ntncb,Signal Transduction
+ntrc-824,Signal Transduction
+ntzdpa,PIP3 activates AKT signaling
+nu-1025,POLB-Dependent Long Patch Base Excision Repair
+nu-2058,G0 and Early G1
+nu-6027,G0 and Early G1
+nu-7026,Innate Immune System
+nu-7441,Innate Immune System
+nu6027,G0 and Early G1
+nu7441,Unknown
+nutlin-3,PIP3 activates AKT signaling
+nutlin-3a (-),Neurotransmitter receptors and postsynaptic signal transmission
+nvp-231,Metabolism
+nvp-adw742,Signal Transduction
+nvp-aew541,Signal Transduction
+nvp-auy922,Developmental Biology
+nvp-bez235,Disease
+nvp-bgj398,Signal Transduction
+nvp-bhg712,Developmental Biology
+nvp-bsk805,Interleukin-6 signaling
+nvp-bvu972,PIP3 activates AKT signaling
+nvp-dpp728,Peptide hormone metabolism
+nvp-hsp990,Developmental Biology
+nvp-tae226,Apoptosis
+nvp-tae684,Signal Transduction
+nvp-tnks656,PIP3 activates AKT signaling
+nvs-pak1-1,Developmental Biology
+o-acetyl-l-serine,COX reactions
+o6-benzylguanine,MGMT-mediated DNA damage reversal
+oac2,Developmental Biology
+obatoclax,Apoptosis
+obatoclax mesylate,Cytokine Signaling in Immune system
+obidoxime,Neurotransmitter clearance
+oc000459,Signal Transduction
+ocinaplon,Neurotransmitter receptors and postsynaptic signal transmission
+octopamine,Hemostasis
+octreotide,Signal Transduction
+odanacatib,Adaptive Immune System
+odm-201,Signal Transduction
+of-1,Generic Transcription Pathway
+ofloxacin,Transcription of E2F targets under negative control by DREAM complex
+og-l002,Hemostasis
+oicr-9429,Developmental Biology
+olanzapine,Signal Transduction
+olaparib,POLB-Dependent Long Patch Base Excision Repair
+olda,Peptide hormone metabolism
+oleamide,Signal Transduction
+oleanolic-acid,Signal Transduction
+oleoylethanolamide,Signal Transduction
+oleuropein,Signal Transduction
+oligomycin-a,Unknown
+olmesartan,Signal Transduction
+olmesartan-medoxomil,Signal Transduction
+olmutinib,Signal Transduction
+olomoucine,Signal Transduction
+olopatadine,Toll Like Receptor 4 (TLR4) Cascade
+olprinone,Signal Transduction
+olsalazine,Developmental Biology
+oltipraz,Cell-Cell communication
+olvanil,Signal Transduction
+omapatrilat,Metabolism of Angiotensinogen to Angiotensins
+omarigliptin,Peptide hormone metabolism
+omdm-2,Peptide hormone metabolism
+omecamtiv-mecarbil,Striated Muscle Contraction
+omeprazole,Transport of small molecules
+omeprazole-magnesium,Transport of small molecules
+omipalisib,Unknown
+on123300,Signal Transduction
+onc201,Unknown
+ondansetron,Signal Transduction
+ono-4059,ER-Phagosome pathway
+ono-4817,Collagen degradation
+ono-8130,Signal Transduction
+ono-ae3-208,Signal Transduction
+opc-21268,Signal Transduction
+opicapone,Neurotransmitter clearance
+or-486,Neurotransmitter clearance
+orantinib,Signal Transduction
+ore1001,Attachment and Entry
+org-12962,Signal Transduction
+org-25543,Neurotransmitter receptors and postsynaptic signal transmission
+org-27569,Signal Transduction
+org-9768,Hemostasis
+oridonin,Apoptosis
+orlistat,Signal Transduction
+ornithine,Metabolism
+orotic-acid,Metabolism
+orphenadrine,Neurotransmitter receptors and postsynaptic signal transmission
+orteronel,Metabolism
+ory-1001,Hemostasis
+oseltamivir-phosphate,Metabolism
+osemozotan,Signal Transduction
+osi-027,PIP3 activates AKT signaling
+osi-420,Signaling by ERBB2
+osi-930,Signal Transduction
+osimertinib,Signaling by ERBB2
+ospemifene,PIP3 activates AKT signaling
+ostarine,Signal Transduction
+osu-03012,Unknown
+ot-r-antagonist-1,Signal Transduction
+otamixaban,Hemostasis
+otenzepad,Signal Transduction
+otilonium,Developmental Biology
+ots167,Unknown
+otx015,Generic Transcription Pathway
+ouabain,Disease
+oxa-06,Developmental Biology
+oxaliplatin,Unknown
+oxaloacetate,Metabolism
+oxandrolone,Signal Transduction
+oxaprozin,Metabolism
+oxatomide,Signal Transduction
+oxazepam,Neurotransmitter receptors and postsynaptic signal transmission
+oxcarbazepine,Developmental Biology
+oxf-bd-02,Adaptive Immune System
+oxfenicine,Metabolism
+oxibendazole,Cell Cycle
+oxotremorine-m,Signal Transduction
+oxprenolol,Signal Transduction
+oxybenzone,Metabolism
+oxybuprocaine,Developmental Biology
+oxybutynin,Signal Transduction
+oxymetazoline,Signal Transduction
+oxyphencyclimine,Signal Transduction
+oxyphenonium,Signal Transduction
+oxypurinol,Adaptive Immune System
+oxyquinoline,Visual phototransduction
+oxytocin,Signal Transduction
+ozagrel,Metabolism
+ozanimod,Cytokine Signaling in Immune system
+p22077,Metabolism of proteins
+p276-00,Signal Transduction
+p5091,PIP3 activates AKT signaling
+p7c3,"BMAL1:CLOCK,NPAS2 activates circadian expression"
+pa-452,Developmental Biology
+pa-824,Metabolism
+pac-1,Unknown
+paclitaxel,Immune System
+pacocf3,Hemostasis
+pacritinib,Cytokine Signaling in Immune system
+pak_5339,Developmental Biology
+palbociclib,Cell Cycle
+paliperidone,Signal Transduction
+palmatine-chloride,Metabolism
+palmitoylethanolamide,Signal Transduction
+palomid-529,PIP3 activates AKT signaling
+palonosetron,Neurotransmitter receptors and postsynaptic signal transmission
+palosuran,Signal Transduction
+palovarotene,Developmental Biology
+pamidronate,Metabolism
+pancuronium,Signal Transduction
+panobinostat,Signaling by NOTCH
+pantoprazole,Transport of small molecules
+paopa,Signal Transduction
+papaverine,Signal Transduction
+para-toluenesulfonamide,Metabolism
+paracetamol,Metabolism
+parbendazole,Cell Cycle
+pardoprunox,Signal Transduction
+parecoxib,Mtb iron assimilation by chelation
+pargyline,Amine Oxidase reactions
+paricalcitol,Metabolism
+paroxetine,Signal Transduction
+parp_0108,POLB-Dependent Long Patch Base Excision Repair
+parp_9482,POLB-Dependent Long Patch Base Excision Repair
+parp_9495,POLB-Dependent Long Patch Base Excision Repair
+parthenolide,Hemostasis
+parthenolide-(-),Hemostasis
+parthenolide-(alternate-stereo),Downstream signaling events of B Cell Receptor (BCR)
+pasiniazid,Metabolism
+pasireotide,Signal Transduction
+pazopanib,Signal Transduction
+pca-4248,Cytokine Signaling in Immune system
+pci-24781,Signaling by NOTCH
+pci-29732,ER-Phagosome pathway
+pci-34051,Signaling by NOTCH
+pco-400,Neuronal System
+pd-0325901,MAPK3 (ERK1) activation
+pd-102807,Signal Transduction
+pd-118057,Neuronal System
+pd-123319,Signal Transduction
+pd-128907,Signal Transduction
+pd-153035,Signal Transduction
+pd-160170,Signal Transduction
+pd-161570,PI3K Cascade
+pd-166285,PIP3 activates AKT signaling
+pd-166793,Collagen degradation
+pd-168393,Signaling by ERBB2
+pd-168568,Signal Transduction
+pd-173074,Signal Transduction
+pd-173212,Presynaptic depolarization and calcium channel opening
+pd-184352,Toll Like Receptor 4 (TLR4) Cascade
+pd-198306,RAF-independent MAPK1/3 activation
+pd-318088,MAPK3 (ERK1) activation
+pd-407824,Hemostasis
+pd-81723,Signal Transduction
+pd-98059,Signal Transduction
+pd0325901,Unknown
+pd1-pdl-inhibitor-1,Adaptive Immune System
+pd173074,PI3K Cascade
+pde10-in-1,Hemostasis
+pdp-ea,Metabolism
+peficitinib,Cytokine Signaling in Immune system
+pefloxacin,Transcription of E2F targets under negative control by DREAM complex
+pelanserin,Signal Transduction
+pelitinib,Signaling by ERBB2
+pemetrexed,Metabolism
+pemirolast,Signal Transduction
+penbutolol,Signal Transduction
+penfluridol,Developmental Biology
+pentagastrin,Signal Transduction
+pentamidine,tRNA modification in the nucleus and cytosol
+pentetic-acid,Metabolism
+pentobarbital,Neurotransmitter receptors and postsynaptic signal transmission
+pentolinium,Neurotransmitter receptors and postsynaptic signal transmission
+pentostatin,Metabolism
+pentoxifylline,Signal Transduction
+pepstatin,Adaptive Immune System
+perampanel,Neurotransmitter receptors and postsynaptic signal transmission
+peretinoin,Developmental Biology
+pergolide,Signal Transduction
+perhexiline,Metabolism
+perifosine,Apoptosis
+perillyl-alcohol,Apoptosis
+perindopril,Metabolism of Angiotensinogen to Angiotensins
+perospirone,Signal Transduction
+perphenazine,Signal Transduction
+perzinfotel,Neurotransmitter receptors and postsynaptic signal transmission
+petcm,Unknown
+pevonedistat,Metabolism of proteins
+pexidartinib,Cytokine Signaling in Immune system
+pexmetinib,Hemostasis
+pf-00299804,Signaling by ERBB2
+pf-02545920,Hemostasis
+pf-03049423,Hemostasis
+pf-03758309,Developmental Biology
+pf-03814735,Cell Cycle
+pf-04217903,PIP3 activates AKT signaling
+pf-04418948,Signal Transduction
+pf-04447943,Hemostasis
+pf-04457845,Metabolism
+pf-04620110,Metabolism
+pf-04691502,PIP3 activates AKT signaling
+pf-04885614,Developmental Biology
+pf-04937319,Developmental Biology
+pf-05190457,Signal Transduction
+pf-05212384,PIP3 activates AKT signaling
+pf-06447475,Signal Transduction
+pf-06463922,Signal Transduction
+pf-3274167,Signal Transduction
+pf-3845,Metabolism
+pf-429242,Metabolism
+pf-431396,Cell-Cell communication
+pf-4708671,Signal Transduction
+pf-477736,Cell Cycle
+pf-4800567,Cell Cycle
+pf-4981517,Metabolism
+pf-5274857,Signal Transduction
+pf-562271,Cell-Cell communication
+pf-573228,Signal Transduction
+pf-670462,Cell Cycle
+pf-750,Metabolism
+pf-8380,Metabolism
+pf-915275,Metabolism
+pfi-1,Adaptive Immune System
+pfi-3,Generic Transcription Pathway
+pfi-4,Generic Transcription Pathway
+pfi3,Developmental Biology
+pfk-015,Metabolism
+pfk-158,Metabolism
+pgl5001,Cytokine Signaling in Immune system
+ph-797804,Developmental Biology
+pha-568487,Neurotransmitter receptors and postsynaptic signal transmission
+pha-665752,PIP3 activates AKT signaling
+pha-680632,Cell Cycle
+pha-767491,Signal Transduction
+pha-793887,Generic Transcription Pathway
+pha-848125,Signal Transduction
+phccc,Signal Transduction
+phenacemide,Developmental Biology
+phenacetin,COX reactions
+phenazone,Metabolism
+phenazopyridine,Developmental Biology
+phenelzine,Transmission across Chemical Synapses
+phenformin,Neuronal System
+phenindione,Metabolism
+pheniramine,Signal Transduction
+phenolphthalein,Metabolism
+phenprocoumon,Metabolism
+phenserine,Neurotransmitter clearance
+phensuximide,Developmental Biology
+phentermine,Neurotransmitter clearance
+phentolamine,Signal Transduction
+phenylbutazone,Metabolism
+phenylbutyrate,Hemostasis
+phenylephrine,Signal Transduction
+phenytoin,Developmental Biology
+phikan-083,Apoptosis
+phloretin,Transport of small molecules
+phlorizin,Transport of small molecules
+phortress,Metabolism
+phosphatidylcholine,Metabolism
+php-501,Neurotransmitter receptors and postsynaptic signal transmission
+pht-427,PI3K Cascade
+phtpp,PIP3 activates AKT signaling
+physostigmine,Neurotransmitter clearance
+pi-103,Immune System
+pi3ka_4409,Unknown
+pi4kiii-beta-inhibitor-1,Metabolism
+piboserod,Signal Transduction
+picartamide,Transport of small molecules
+piceatannol,ISG15 antiviral mechanism
+piclamilast,Opioid Signalling
+picolinici-acid,Unknown
+picotamide,Hemostasis
+picrotin,Neurotransmitter receptors and postsynaptic signal transmission
+picrotoxinin,Neurotransmitter receptors and postsynaptic signal transmission
+pictilisib,Unknown
+pidolic-acid,Digestion of dietary carbohydrate
+pifithrin-cyclic,Apoptosis
+pifithrin-mu,Antimicrobial mechanism of IFN-stimulated genes
+pik-293,PIP3 activates AKT signaling
+pik-294,PIP3 activates AKT signaling
+pik-75,Immune System
+pik-93,Metabolism
+pilaralisib,Unknown
+pilocarpine,Signal Transduction
+pilsicainide,Developmental Biology
+pim-1-inhibitor-2,Antimicrobial mechanism of IFN-stimulated genes
+pimavanserin,Signal Transduction
+pimecrolimus,Adaptive Immune System
+pimobendan,Signal Transduction
+pimozide,Signal Transduction
+pinacidil,Neuronal System
+pinaverium,Developmental Biology
+pindolol,Signal Transduction
+pindolol-(-),Signal Transduction
+pinocembrin,Metabolism
+pioglitazone,PIP3 activates AKT signaling
+pipamperone,Signal Transduction
+pipecuronium,Signal Transduction
+pipenzolate,Signal Transduction
+piperazine,Neurotransmitter receptors and postsynaptic signal transmission
+piperidolate,Signal Transduction
+piperine,Amine Oxidase reactions
+piperlongumine,Unknown
+pipotiazine,Signal Transduction
+pipotiazine-palmitate,Signal Transduction
+piracetam,Neurotransmitter receptors and postsynaptic signal transmission
+pirenperone,Signal Transduction
+pirenzepine,Signal Transduction
+piretanide,Transport of small molecules
+pirfenidone,Antimicrobial mechanism of IFN-stimulated genes
+piribedil,Signal Transduction
+piricapiron,Signal Transduction
+pirinixic-acid,Developmental Biology
+pirlindole,Neurotransmitter release cycle
+piroxicam,Metabolism
+piroximone,Signal Transduction
+pitavastatin,Developmental Biology
+pitolisant,Signal Transduction
+pizotifen,Signal Transduction
+pj-34,Disease
+pk-11195,Metabolism
+pk-44,Peptide hormone metabolism
+pk-thpp,Neuronal System
+pki-166,Signaling by ERBB2
+pki-179,PIP3 activates AKT signaling
+plerixafor,Signal Transduction
+plk_6522,Cell Cycle
+plovamer-acetate,Metabolism
+plurisin-#1,Metabolism
+plurisin-1,Metabolism
+plx-4720,Signal Transduction
+plx4720,Signal Transduction
+plx647,Generic Transcription Pathway
+plx8394,Spry regulation of FGF signaling
+pmpa,Metabolism
+pnu-120596,Neurotransmitter receptors and postsynaptic signal transmission
+pnu-142633,Signal Transduction
+pnu-177864,Signal Transduction
+pnu-22394,Signal Transduction
+pnu-282987,Neurotransmitter receptors and postsynaptic signal transmission
+pnu-74654,Developmental Biology
+podophyllotoxin,Disease
+polydatin,Cytokine Signaling in Immune system
+polyinosine,Metabolism
+polythiazide,Disease
+pomalidomide,Disease
+ponatinib,Signal Transduction
+ponesimod,Cytokine Signaling in Immune system
+posaconazole,Metabolism
+potassium-canrenoate,Generic Transcription Pathway
+pozanicline,Neurotransmitter receptors and postsynaptic signal transmission
+poziotinib,Signaling by ERBB2
+pp-1,Cytokine Signaling in Immune system
+pp-121,Disease
+pp-2,Signal Transduction
+pp242,PIP3 activates AKT signaling
+ppt,Signaling by ERBB4
+ppy-a,Signal Transduction
+pq-401,Signal Transduction
+practolol,Signal Transduction
+pralatrexate,Metabolism
+pralidoxime,Neurotransmitter clearance
+pralidoxime-chloride,Neurotransmitter clearance
+pramipexole,Signal Transduction
+pranidipine,Developmental Biology
+pranlukast,Signal Transduction
+prasugrel,Hemostasis
+pravadoline,Signal Transduction
+pravastatin,Metabolism
+prazosin,Signal Transduction
+pre-084,Disease
+preclamol,Signal Transduction
+prednisolone,Generic Transcription Pathway
+prednisolone-acetate,Signal Transduction
+prednisolone-hemisuccinate,Signal Transduction
+prednisolone-sodium-phosphate,Signal Transduction
+prednisone,Metabolism
+pregabalin,Transmission across Chemical Synapses
+pregnenolone,Metabolism
+pregnenolone-succinate,Metabolism
+preladenant,Signal Transduction
+prenylamine,Hemostasis
+pretomanid,Metabolism
+prilocaine,Developmental Biology
+prima-1met,Unknown
+prima1,Neurotransmitter clearance
+primaquine,Developmental Biology
+primidone,Neurotransmitter receptors and postsynaptic signal transmission
+prinaberel,Signal Transduction
+priralfinamide,Presynaptic depolarization and calcium channel opening
+proadifen,Hemostasis
+probenecid,Transport of small molecules
+probucol,Metabolism
+procainamide,Signal Transduction
+procaine,Neuronal System
+procaterol,Signal Transduction
+prochlorperazine,Signal Transduction
+procyclidine,Signal Transduction
+proflavine-hemisulfate,Hemostasis
+progesterone,Fertilization
+proglumide,Signal Transduction
+proguanil,Metabolism
+promazine,Signal Transduction
+promethazine,Signal Transduction
+propacetamol,Cytokine Signaling in Immune system
+propafenone,Muscle contraction
+propagermanium,Cytokine Signaling in Immune system
+propantheline,Signal Transduction
+propentofylline,Hemostasis
+propiverine,Signal Transduction
+propofol,Neurotransmitter receptors and postsynaptic signal transmission
+propranolol,Signal Transduction
+propranolol-(r),Signal Transduction
+propranolol-(s),Signal Transduction
+propylhexedrine,Neurotransmitter release cycle
+propylthiouracil,Metabolism
+proquazone,Metabolism
+protirelin,Signal Transduction
+protriptyline,Transport of small molecules
+proxyfan,Signal Transduction
+proxymetacaine,Developmental Biology
+prt062070,Hemostasis
+prt062607,Hemostasis
+prucalopride,Signal Transduction
+pruvanserin,Signal Transduction
+prx-08066,Signal Transduction
+ps178990,Signal Transduction
+psb-06126,Metabolism
+psb-11,Signal Transduction
+psb-1115,Signal Transduction
+psb-36,Signal Transduction
+psb-603,Signal Transduction
+psncbam-1,Signal Transduction
+psoralen,Amine Oxidase reactions
+pt-2385,Regulation of gene expression by Hypoxia-inducible Factor
+pterostilbene,Cytokine Signaling in Immune system
+pu-h71,Signaling by ERBB2
+pumosetrag,Neurotransmitter receptors and postsynaptic signal transmission
+purmorphamine,Signal Transduction
+puromycin,Developmental Biology
+purvalanol-a,Signal Transduction
+purvalanol-b,Disease
+putrescine,Metabolism
+px-12,Metabolism
+pyrazinamide,Metabolism
+pyrazolanthrone,Cytokine Signaling in Immune system
+pyridostatin,Unknown
+pyridoxal,Metabolism
+pyridoxine,Metabolism
+pyrimethamine,Metabolism
+pyrithione-zinc,Neuronal System
+pyroxamide,Hemostasis
+ql-viii-58,Disease
+ql-x-138,ER-Phagosome pathway
+ql-xi-92,Extracellular matrix organization
+ql-xii-47,Signal Transduction
+ql-xii-61,Apoptosis
+qs11,ER to Golgi Anterograde Transport
+quazinone,Signal Transduction
+quercetin,Disease
+quetiapine,Signal Transduction
+quiflapon,Metabolism
+quinagolide,Signal Transduction
+quinapril,Metabolism of Angiotensinogen to Angiotensins
+quinelorane,Signal Transduction
+quinestrol,Signaling by ERBB4
+quinethazone,Transport of small molecules
+quinidine,Neuronal System
+quinine,Neuronal System
+quinpirol-(-),Signal Transduction
+quipazine,Signal Transduction
+quizartinib,Signal Transduction
+qx-314,Signal Transduction
+r(-)-apomorphine,Signal Transduction
+r-1485,Signal Transduction
+r-268712,Signal Transduction
+r-428,Signal Transduction
+r-59022,Hemostasis
+r-96544,Signal Transduction
+r112,Hemostasis
+r406,Signal Transduction
+r547,Cell Cycle
+rabeprazole,Transport of small molecules
+racecadotril,Developmental Biology
+raclopride,Signal Transduction
+radafaxine,Defective SLC6A3 causes Parkinsonism-dystonia infantile (PKDYS)
+raf265,Spry regulation of FGF signaling
+raf_9304,Signal Transduction
+raloxifene,PIP3 activates AKT signaling
+raltitrexed,Metabolism
+ramatroban,Signal Transduction
+ramelteon,Signal Transduction
+ramipril,Metabolism of Angiotensinogen to Angiotensins
+ramosetron,Neurotransmitter receptors and postsynaptic signal transmission
+ranirestat,Metabolism
+ranitidine,Signal Transduction
+ranolazine,Developmental Biology
+rapamycin,Unknown
+rasagiline,Apoptosis
+rauwolscine,Signal Transduction
+ravoxertinib,Apoptosis
+rbc8,Signal Transduction
+rebamipide,Cytokine Signaling in Immune system
+rebastinib,Disease
+reboxetine,Disease
+refametinib,RAF-independent MAPK1/3 activation
+regadenoson,Signal Transduction
+regorafenib,Signal Transduction
+relcovaptan,Signal Transduction
+remacemide,Neurotransmitter receptors and postsynaptic signal transmission
+remimazolam,Neurotransmitter receptors and postsynaptic signal transmission
+remodelin,rRNA modification in the nucleus and cytosol
+remoxipride,Signal Transduction
+repaglinide,Metabolism
+reparixin,Signal Transduction
+repsox,Signal Transduction
+resatorvid,Apoptosis
+reserpine,Neurotransmitter release cycle
+resiquimod,Disease
+resminostat,Signaling by NOTCH
+resorcinol,Metabolism
+resveratrol,Metabolism
+retigabine,Neuronal System
+rev-5901,Cytokine Signaling in Immune system
+reversan,Metabolism
+reversine,Signal Transduction
+rg108,Disease
+rg2833,PIP3 activates AKT signaling
+rg4733,Signaling by ERBB4
+rg7112,Neurotransmitter receptors and postsynaptic signal transmission
+rgb-286638,Disease
+rgfp966,PIP3 activates AKT signaling
+rhc-80267,Hemostasis
+rhein,Signaling by ERBB2
+rheochrysidin,Hemostasis
+ri-1,Reproduction
+ribavirin,Metabolism
+ribociclib,Cell Cycle
+riboflavin,Metabolism
+ribostamycin,Cytokine Signaling in Immune system
+rifabutin,Cytokine Signaling in Immune system
+rifampin,Metabolism
+rifapentine,Metabolism
+rifaximin,Generic Transcription Pathway
+rigosertib,Developmental Biology
+rilmenidine,Hemostasis
+rilpivirine,Generic Transcription Pathway
+riluzole,Muscle contraction
+rimcazole,Disease
+rimegepant,Signal Transduction
+rimexolone,Signal Transduction
+rimonabant,Signal Transduction
+riociguat,Hemostasis
+ripasudil,Developmental Biology
+ripazepam,Neurotransmitter receptors and postsynaptic signal transmission
+risedronate,Metabolism
+risperidone,Signal Transduction
+rita,Neurotransmitter receptors and postsynaptic signal transmission
+ritanserin,Signal Transduction
+ritodrine,Signal Transduction
+ritonavir,Metabolism
+rivanicline,Neurotransmitter receptors and postsynaptic signal transmission
+rivaroxaban,Hemostasis
+rivastigmine,Neurotransmitter clearance
+rizatriptan,Signal Transduction
+rki-1447,Signal Transduction
+rn-1,Hemostasis
+rn-1734,Stimuli-sensing channels
+rn-1747,Stimuli-sensing channels
+ro-04-5595,Neurotransmitter receptors and postsynaptic signal transmission
+ro-08-2750,Signal Transduction
+ro-10-5824,Signal Transduction
+ro-1138452,Hemostasis
+ro-15-4513,Neurotransmitter receptors and postsynaptic signal transmission
+ro-19-4605,Neurotransmitter receptors and postsynaptic signal transmission
+ro-20-1724,Signal Transduction
+ro-25-6981,Neurotransmitter receptors and postsynaptic signal transmission
+ro-28-1675,Developmental Biology
+ro-3,Hemostasis
+ro-3306,MAPK3 (ERK1) activation
+ro-48-8071,Metabolism
+ro-4987655,MAPK3 (ERK1) activation
+ro-5126766,Signal Transduction
+ro-60-0175,Signal Transduction
+ro-61-8048,Metabolism
+ro-67-7476,Neuronal System
+ro-90-7501,Hemostasis
+robalzotan,Signal Transduction
+rociletinib,Signaling by ERBB2
+rocuronium,Neurotransmitter receptors and postsynaptic signal transmission
+rofecoxib,Degradation of the extracellular matrix
+roflumilast,Opioid Signalling
+rolipram-r(-),Signal Transduction
+rolipram-s(+),Opioid Signalling
+romidepsin,Signaling by NOTCH
+ropinirole,Signal Transduction
+ropivacaine,Developmental Biology
+roscovitine,Signal Transduction
+rosiglitazone,Metabolism
+rosmarinic-acid,Cytokine Signaling in Immune system
+rostafuroxine,Disease
+rosuvastatin,Developmental Biology
+rotigotine,Signal Transduction
+rotundine,Signal Transduction
+roxatidine-acetate,Signal Transduction
+roxithromycin,Abacavir transmembrane transport
+rp-001,Cytokine Signaling in Immune system
+rq-00203078,Stimuli-sensing channels
+rs-100329,Signal Transduction
+rs-102221,Signal Transduction
+rs-102895,Cytokine Signaling in Immune system
+rs-127445,Signal Transduction
+rs-17053,Signal Transduction
+rs-23597-190,Signal Transduction
+rs-39604,Signal Transduction
+rs-504393,Cytokine Signaling in Immune system
+rs-56812,Neurotransmitter receptors and postsynaptic signal transmission
+rs-67333,Signal Transduction
+rs-67506,Signal Transduction
+rs-79948,Hemostasis
+rta-408,Adaptive Immune System
+rtrail,Unknown
+ru-28318,Generic Transcription Pathway
+ru-58841,Signal Transduction
+ru-ski 43,Unknown
+ru-ski-43,Signal Transduction
+rubitecan,SUMOylation
+rucaparib,POLB-Dependent Long Patch Base Excision Repair
+rucinol,Developmental Biology
+rufinamide,Developmental Biology
+rupatadine,Signal Transduction
+rutaecarpine,Cytokine Signaling in Immune system
+rutin,Metabolism
+ruxolitinib,Cytokine Signaling in Immune system
+ruxolitinib-(s),Interleukin-6 signaling
+rvx-208,Adaptive Immune System
+rwj-21757,Disease
+rwj-50271,Cytokine Signaling in Immune system
+rwj-67657,Cytokine Signaling in Immune system
+rx-3117,Signal Transduction
+rx-821002,Signal Transduction
+ryuvidine,Developmental Biology
+s-07662,Generic Transcription Pathway
+s-111,POLB-Dependent Long Patch Base Excision Repair
+s-14506,Signal Transduction
+s-isopropylisothiourea,Hemostasis
+s-methylcysteine,Adaptive Immune System
+s-nitrosoglutathione,Hemostasis
+s-trityl-l-cysteine,Hemostasis
+s18986,Neurotransmitter receptors and postsynaptic signal transmission
+s1p1-agonist-iii,Cytokine Signaling in Immune system
+s26948,PIP3 activates AKT signaling
+s4,Metabolism
+sa-47,Metabolism
+sabutoclax,Cytokine Signaling in Immune system
+saccharin,Metabolism
+saclofen,Neurotransmitter receptors and postsynaptic signal transmission
+sacubitril,Developmental Biology
+safinamide,Amine Oxidase reactions
+safingol,Stimuli-sensing channels
+sag,Signal Transduction
+sal003,Unknown
+salicylic-acid,Metabolism
+salidroside,Hemostasis
+salirasib,Stimuli-sensing channels
+salubrinal,Antimicrobial mechanism of IFN-stimulated genes
+salvianolic-acid-b,Developmental Biology
+salvinorin-a,Signal Transduction
+sanguinarium-chloride,Unknown
+sant-1,Signal Transduction
+sant-2,Signal Transduction
+sapitinib,Signaling by ERBB2
+sapropterin,Metabolism
+saquinavir,Metabolism
+sar-245409,PIP3 activates AKT signaling
+sar131675,Signaling by NOTCH
+sar405,Translation of Replicase and Assembly of the Replication Transcription Complex
+sar405838,Neurotransmitter receptors and postsynaptic signal transmission
+sar407899,Unknown
+saracatinib,Hemostasis
+sarcosine,Transport of small molecules
+saroglitazar,Developmental Biology
+sarpogrelate,Signal Transduction
+sasapyrine,Metabolism
+savolitinib,PIP3 activates AKT signaling
+saxagliptin,Peptide hormone metabolism
+sb-200646,Signal Transduction
+sb-202190,Signal Transduction
+sb-203186,Signal Transduction
+sb-203580,Signal Transduction
+sb-205384,Neurotransmitter receptors and postsynaptic signal transmission
+sb-206553,Signal Transduction
+sb-216641,Signal Transduction
+sb-216763,Cellular responses to stress
+sb-218078,Signaling by SCF-KIT
+sb-218795,Signal Transduction
+sb-221284,Signal Transduction
+sb-222200,Signal Transduction
+sb-225002,Signal Transduction
+sb-228357,Signal Transduction
+sb-2343,PIP3 activates AKT signaling
+sb-239063,Cytokine Signaling in Immune system
+sb-242235,Signal Transduction
+sb-243213,Signal Transduction
+sb-258585,Signal Transduction
+sb-268262,Signal Transduction
+sb-269970,Signal Transduction
+sb-271046,Signal Transduction
+sb-297006,Signal Transduction
+sb-334867,Signal Transduction
+sb-366791,Stimuli-sensing channels
+sb-399885,Signal Transduction
+sb-408124,Signal Transduction
+sb-415286,Maturation of nucleoprotein
+sb-431542,Signal Transduction
+sb-452533,Stimuli-sensing channels
+sb-505124,Signal Transduction
+sb-525334,Signal Transduction
+sb-590885,Spry regulation of FGF signaling
+sb-612111,Signal Transduction
+sb-657510,Signal Transduction
+sb-683698,Adaptive Immune System
+sb-705498,Stimuli-sensing channels
+sb-706375,Signal Transduction
+sb-742457,Signal Transduction
+sb-743921,Hemostasis
+sb-747651a,Signal Transduction
+sb-756050,Signal Transduction
+sb-772077b,Developmental Biology
+sb-939,Signaling by NOTCH
+sb216763,Maturation of nucleoprotein
+sb505124,Signal Transduction
+sb52334,Unknown
+sb590885,Spry regulation of FGF signaling
+sbe-13,Developmental Biology
+sbha,PIP3 activates AKT signaling
+sc-10,Hemostasis
+sc-12267,Cytokine Signaling in Immune system
+sc-19220,Signal Transduction
+sc-236,Cytokine Signaling in Immune system
+sc-51089,Signal Transduction
+sc-560,COX reactions
+sc-9,Hemostasis
+sch-202676,Signal Transduction
+sch-221510,Signal Transduction
+sch-23390,Signal Transduction
+sch-28080,Transport of small molecules
+sch-51344,Metabolism
+sch-58261,Signal Transduction
+sch-900776,Signal Transduction
+sch772984,Unknown
+schisandrin-b,Meiotic synapsis
+scmc-lys,Metabolism
+scopolamine-n-oxide,Signal Transduction
+scriptaid,Signaling by NOTCH
+sd-169,Hemostasis
+sd-208,Signal Transduction
+sd-2590,Collagen degradation
+sdm25n,Cytokine Signaling in Immune system
+sdz-205-557,Neurotransmitter receptors and postsynaptic signal transmission
+sdz-21009,Signal Transduction
+sdz-220-040,Neurotransmitter receptors and postsynaptic signal transmission
+sdz-220-581,Neurotransmitter receptors and postsynaptic signal transmission
+sdz-nkt-343,Signal Transduction
+sdz-ser-082,Signal Transduction
+sdz-wag-994,Signal Transduction
+secalciferol,Metabolism
+securinine,Neurotransmitter receptors and postsynaptic signal transmission
+segesterone-acetate,Signaling by ERBB4
+selegiline,Amine Oxidase reactions
+selexipag,Hemostasis
+seliciclib,Disease
+selinexor,Developmental Biology
+selisistat,Developmental Biology
+selumetinib,MAPK3 (ERK1) activation
+semagacestat,Signaling by ERBB4
+semapimod,Hemostasis
+semaxanib,Signal Transduction
+sen-1269,Hemostasis
+senicapoc,Neuronal System
+seocalcitol,Metabolism
+sep-227900,Metabolism
+sepantronium bromide,Cytokine Signaling in Immune system
+seratrodast,Hemostasis
+serdemetan,Neurotransmitter receptors and postsynaptic signal transmission
+serotonin,Signal Transduction
+sertindole,Signal Transduction
+sertraline,Neurotransmitter clearance
+setipiprant,Signal Transduction
+setiptiline,Signal Transduction
+sevoflurane,Neuronal System
+sew-2871,Cytokine Signaling in Immune system
+sf-11,Stimuli-sensing channels
+sgc-707,RMTs methylate histone arginines
+sgc-cbp30,Regulation of gene expression by Hypoxia-inducible Factor
+sgc0946,PKMTs methylate histone lysines
+sgi-1027,Disease
+sgi-1776,Cytokine Signaling in Immune system
+sgs-742,Neurotransmitter receptors and postsynaptic signal transmission
+sgx523,PIP3 activates AKT signaling
+sha-68,Signal Transduction
+shikonin,Unknown
+shp099,Interleukin-6 signaling
+sib-1553a,Neurotransmitter receptors and postsynaptic signal transmission
+sib-1757,Neuronal System
+sib-1893,Signal Transduction
+sibutramine,Transport of small molecules
+sid-7969543,Developmental Biology
+siguazodan,Signal Transduction
+sildenafil,Signal Transduction
+silibinin,Cytokine Signaling in Immune system
+silodosin,Signal Transduction
+simeprevir,Metabolism
+simvastatin,Developmental Biology
+sinefungin,Developmental Biology
+sipatrigine,Developmental Biology
+siponimod,Cytokine Signaling in Immune system
+siramesine,Signal Transduction
+sirolimus,Signal Transduction
+sirreal-2,Cell Cycle
+sis3,Signal Transduction
+sitagliptin,Peptide hormone metabolism
+sitaxentan,Signal Transduction
+sivelestat,Collagen degradation
+sk&f-10047-(+),Disease
+ska-31,Neuronal System
+skepinone-l,Hemostasis
+skf-38393,Signal Transduction
+skf-77434,Signal Transduction
+skf-81297,Signal Transduction
+skf-83566,Signal Transduction
+skf-86002,Cytokine Signaling in Immune system
+skf-89976a,Neurotransmitter release cycle
+skf-96365,Stimuli-sensing channels
+ski-ii,Antimicrobial mechanism of IFN-stimulated genes
+sklb1002,Extracellular matrix organization
+sl0101,Amplification of signal from the kinetochores
+slv-319-(+/-),Signal Transduction
+slv-320,Signal Transduction
+sm-164,Cytokine Signaling in Immune system
+sm-21,Innate Immune System
+smer-28,Antimicrobial mechanism of IFN-stimulated genes
+smi-4a,Antimicrobial mechanism of IFN-stimulated genes
+sn-2,Stimuli-sensing channels
+sn-38,SUMOylation
+snap,Hemostasis
+snap-94847,Signal Transduction
+snc-80,Cytokine Signaling in Immune system
+sng-1153,Signaling by ERBB4
+sns-314,Cell Cycle
+snx-2112,Unknown
+snx-5422,Developmental Biology
+sobetirome,Generic Transcription Pathway
+sodium-butyrate,Signal Transduction
+sodium-dodecyl-sulfate,Hemostasis
+sodium-monofluorophosphate,Metabolism
+sodium-oxybate,Signal Transduction
+sodium-salicylate,Metabolism
+sodium-stibogluconate,Hemostasis
+sodium-tetradecyl-sulfate,Hemostasis
+sofalcone,Metabolism
+solcitinib,Interleukin-6 signaling
+solifenacin-succinate,Signal Transduction
+somatostatin,Signal Transduction
+sonidegib,Signal Transduction
+sorafenib,Signal Transduction
+sorbinil,Metabolism
+sotagliflozin,Disease
+sotalol,Signal Transduction
+sotrastaurin,Hemostasis
+sp-100030,Developmental Biology
+sp-141,Neurotransmitter receptors and postsynaptic signal transmission
+spaglumic-acid,Signal Transduction
+sparfloxacin,Transcription of E2F targets under negative control by DREAM complex
+spautin-1,Metabolism of proteins
+spermidine,Neurotransmitter receptors and postsynaptic signal transmission
+spermine,Metabolism
+sphingosine kinase 1 inhibitor ii,Unknown
+sphingosylphosphorylcholine,Unknown
+spiperone,Signal Transduction
+spiradoline,Signal Transduction
+spironolactone,Developmental Biology
+spiroxatrine,Signal Transduction
+spp-86,Developmental Biology
+spp301,Signal Transduction
+spp86,Developmental Biology
+sq-109,Metabolism
+sq-22536,Opioid Signalling
+sr-1078,Cytokine Signaling in Immune system
+sr-140333,Signal Transduction
+sr-1664,PIP3 activates AKT signaling
+sr-2211,Cytokine Signaling in Immune system
+sr-2640,Signal Transduction
+sr-27897,Signal Transduction
+sr-3306,Cytokine Signaling in Immune system
+sr-3576,Cytokine Signaling in Immune system
+sr-3677,Developmental Biology
+sr-57227a,Neurotransmitter receptors and postsynaptic signal transmission
+sr-59230a,Signal Transduction
+sr-95639a,Signal Transduction
+src-kinase-inhibitor-i,Cytokine Signaling in Immune system
+srpin340,Disease
+srt1720,Developmental Biology
+srt2104,Developmental Biology
+srt3190,Signal Transduction
+ssr-180711,Neurotransmitter receptors and postsynaptic signal transmission
+ssr180711,Neurotransmitter receptors and postsynaptic signal transmission
+st-2825,ER-Phagosome pathway
+sta-5326,Cytokine Signaling in Immune system
+stanozolol,Signal Transduction
+stat3-inhibitor-vi,Interleukin-6 signaling
+staurosporine,Unknown
+stemregenin-1,Metabolism
+stf-118804,"BMAL1:CLOCK,NPAS2 activates circadian expression"
+stf-31,Metabolism
+stf-62247,Unknown
+streptozotocin,Developmental Biology
+strontium-ranelate,Signal Transduction
+strychnine,Signal Transduction
+su-11274,PIP3 activates AKT signaling
+su014813,Extracellular matrix organization
+su11274,PIP3 activates AKT signaling
+su16f,PIP3 activates AKT signaling
+su3327,Apoptosis
+su9516,Signal Transduction
+substance-p,Signal Transduction
+succinic-acid,Metabolism
+succinobucol,Cytokine Signaling in Immune system
+succinylsulfathiazole,Metabolism
+sucrose,Innate Immune System
+sufentanil,Signal Transduction
+sulfameter,Metabolism
+sulfanilamide,Metabolism
+sulfaphenazole,"Gamma carboxylation, hypusinylation, hydroxylation, and arylsulfatase activation"
+sulfasalazine,Metabolism
+sulfinpyrazone,Transport of small molecules
+sulforaphane,Adaptive Immune System
+sulindac,Metabolism
+sulmetozine,Signal Transduction
+sultiame,Erythrocytes take up carbon dioxide and release oxygen
+sumanirole,Signal Transduction
+sumatriptan,Signal Transduction
+sun-11602,PI3K Cascade
+sunitinib,Signal Transduction
+suprofen,Metabolism
+suramin,Signal Transduction
+suritozole,Neurotransmitter receptors and postsynaptic signal transmission
+suvorexant,Signal Transduction
+swainsonine,Disease
+sx-011,Hemostasis
+sym-2081,Transmission across Chemical Synapses
+sym-2206,Neurotransmitter receptors and postsynaptic signal transmission
+synephrine,Signal Transduction
+t-0070907,PIP3 activates AKT signaling
+t-0156,Hemostasis
+t-0901317,Gene expression (Transcription)
+t-5224,PIP3 activates AKT signaling
+t-5601640,Developmental Biology
+t0901317,Unknown
+ta-01,Cell Cycle
+tabimorelin,Signal Transduction
+tacalcitol,Metabolism
+tacedinaline,Hemostasis
+tacrine,Neurotransmitter clearance
+tacrolimus,Downstream signaling events of B Cell Receptor (BCR)
+tadalafil,Hemostasis
+taf1_5496,HIV Life Cycle
+tafamidis-meglumine,Metabolism
+tafluprost,Signal Transduction
+tagatose,Metabolism
+tak-063,Hemostasis
+tak-220,Cytokine Signaling in Immune system
+tak-285,Signaling by ERBB2
+tak-593,PIP3 activates AKT signaling
+tak-632,Spry regulation of FGF signaling
+tak-715,Hemostasis
+tak-733,MAPK3 (ERK1) activation
+tak-875,Metabolism
+tak-901,Amplification of signal from the kinetochores
+tak-960,Developmental Biology
+taladegib,Signal Transduction
+talampanel,Neurotransmitter receptors and postsynaptic signal transmission
+talarozole,Metabolism
+talazoparib,POLB-Dependent Long Patch Base Excision Repair
+talinolol,Signal Transduction
+talipexole,Signal Transduction
+talmapimod,Cytokine Signaling in Immune system
+talnetant,Signal Transduction
+talniflumate,Stimuli-sensing channels
+talopram,Disease
+taltirelin,Signal Transduction
+tamibarotene,Developmental Biology
+tamoxifen,Signal Transduction
+tamsulosin,Signal Transduction
+tanaproget,Signaling by ERBB4
+tandospirone,Signal Transduction
+tandutinib,Signal Transduction
+tanespimycin,Signaling by ERBB2
+tank_1366,Unknown
+tannic-acid,Disease
+tanshinone-i,Developmental Biology
+tanshinone-iia,Cytokine Signaling in Immune system
+tapentadol,Signal Transduction
+taprenepag,Signal Transduction
+tarafenacin,Metabolism
+taranabant,Signal Transduction
+targinine,Hemostasis
+tariquidar,Abacavir transmembrane transport
+tas-103,SUMOylation
+taselisib,Hemostasis
+tasimelteon,Signal Transduction
+tasquinimod,Signaling by NOTCH
+taurocholate,Developmental Biology
+taxifolin,Metabolism
+tazarotene,Signal Transduction
+tazemetostat,PIP3 activates AKT signaling
+tboa-(dl),Neurotransmitter release cycle
+tc-a-2317,Cell Cycle
+tc-ask-10,Cellular responses to stress
+tc-e-5002,HDMs demethylate histones
+tc-e-5006,Hemostasis
+tc-f-2,Metabolism
+tc-fpr-43,Signal Transduction
+tc-g-1000,Hemostasis
+tc-g-1004,Signal Transduction
+tc-g-1005,Signal Transduction
+tc-g-1008,Signal Transduction
+tc-h-106,Signaling by NOTCH
+tc-i-15,Hemostasis
+tc-i-2000,Stimuli-sensing channels
+tc-i-2014,Stimuli-sensing channels
+tc-lpa5-4,Signal Transduction
+tc-mps1-12,Unknown
+tc-n-1752,Developmental Biology
+tc-ntr1-17,Signal Transduction
+tc-o-9311,Unknown
+tc-ot-39,Signal Transduction
+tc-s-7003,Hemostasis
+tc-s-7004,G0 and Early G1
+tc-s-7005,Disease
+tc-s-7006,Cytokine Signaling in Immune system
+tc-s-7009,Regulation of gene expression by Hypoxia-inducible Factor
+tc-sp-14,Cytokine Signaling in Immune system
+tc1,Metabolism of proteins
+tc2559,Neurotransmitter receptors and postsynaptic signal transmission
+tcn201,Neurotransmitter receptors and postsynaptic signal transmission
+tcn238,Signal Transduction
+tcs-2002,Maturation of nucleoprotein
+tcs-21311,Interleukin-7 signaling
+tcs-2314,Hemostasis
+tcs-3035,Signal Transduction
+tcs-359,PI3K Cascade
+tcs-5861528,Stimuli-sensing channels
+tcs-hdac6-20b,Signaling by NOTCH
+tcs-ox2-29,Signal Transduction
+tcs-pim-1-1,Antimicrobial mechanism of IFN-stimulated genes
+tcs2002,Maturation of nucleoprotein
+tebipenem,Signal Transduction
+tecadenoson,Signal Transduction
+tecalcet,Signal Transduction
+tecastemizole,Neuronal System
+tegaserod,Signal Transduction
+teijin-compound-1,Cytokine Signaling in Immune system
+telaprevir,Metabolism of proteins
+telatinib,Extracellular matrix organization
+telbivudine,Metabolism
+telcagepant,Signal Transduction
+telenzepine,Signal Transduction
+telithromycin,Metabolism
+telmisartan,Signal Transduction
+telomerase inhibitor ix,Unknown
+telotristat,Metabolism
+telotristat-ethyl,Metabolism
+temazepam,Neurotransmitter receptors and postsynaptic signal transmission
+temocapril,Metabolism of Angiotensinogen to Angiotensins
+temozolomide,MGMT-mediated DNA damage reversal
+temsirolimus,PIP3 activates AKT signaling
+tenatoprazole,Metabolism
+teneligliptin,Peptide hormone metabolism
+tenidap,Neurotransmitter receptors and postsynaptic signal transmission
+teniposide,SUMOylation
+tenofovir-disoproxil,Metabolism
+tenovin-1,Developmental Biology
+tenovin-6,Generic Transcription Pathway
+tenoxicam,Metabolism
+tepoxalin,Cytokine Signaling in Immune system
+tepp-46,Aerobic respiration and respiratory electron transport
+terameprocol,Cytokine Signaling in Immune system
+terazosin,Signal Transduction
+terbinafine,Metabolism
+terbutaline,Signal Transduction
+terfenadine,Signal Transduction
+terguride,Signal Transduction
+teriflunomide,Metabolism
+terlipressin,Signal Transduction
+terutroban,Hemostasis
+tesaglitazar,Developmental Biology
+testolactone,Metabolism
+testosterone,Signal Transduction
+testosterone-enanthate,Signal Transduction
+testosterone-propionate,Signal Transduction
+testosterone-undecanoate,Signal Transduction
+tetomilast,Opioid Signalling
+tetrabenazine,Signal Transduction
+tetracaine,Developmental Biology
+tetracycline,Developmental Biology
+tetraethylenepentamine,Cytokine Signaling in Immune system
+tetrahydrouridine,Metabolism
+tetramisole,Neurotransmitter receptors and postsynaptic signal transmission
+tetrandrine,Defective SLC6A3 causes Parkinsonism-dystonia infantile (PKDYS)
+tetrazol-5-yl-glycine-(rs),Neurotransmitter receptors and postsynaptic signal transmission
+tetrindole,Neurotransmitter release cycle
+tfc-007,Metabolism
+tg-003,G0 and Early G1
+tg-02,Signal Transduction
+tg-100572,Signal Transduction
+tg-100801,Signal Transduction
+tg-101209,Cytokine Signaling in Immune system
+tg-101348,Disease
+tg100-115,PIP3 activates AKT signaling
+tgx-221,PIP3 activates AKT signaling
+tgx221,Unknown
+th-588,Metabolism
+th588,Metabolism
+thalidomide,Immune System
+thapsigargin,Unknown
+theobromine,Signal Transduction
+theophylline,Signal Transduction
+thiamet-g,Unknown
+thiamine,Metabolism
+thiethylperazine,Signal Transduction
+thiocolchicoside,Neurotransmitter receptors and postsynaptic signal transmission
+thioctic-acid,Metabolism
+thioguanine,Metabolism
+thiomersal,Metabolism
+thioperamide,Signal Transduction
+thioproperazine,Signal Transduction
+thioridazine,Signal Transduction
+thiostrepton,Polo-like kinase mediated events
+thiotepa,Metabolism
+thiothixene,Signal Transduction
+thiram,Interleukin-6 signaling
+thr-101,Unknown
+thr-102,Unknown
+thr-103,Unknown
+thz-1-87,ER-Phagosome pathway
+thz-2-102-1,Formation of RNA Pol II elongation complex 
+thz-2-49,Formation of RNA Pol II elongation complex 
+thz-2-98-01,PIP3 activates AKT signaling
+thz1,Formation of RNA Pol II elongation complex 
+thz1-r,Formation of RNA Pol II elongation complex 
+thz2,Formation of RNA Pol II elongation complex 
+tiagabine,Neurotransmitter release cycle
+tianeptine,Signal Transduction
+tiapride,Signal Transduction
+tiaprofenic-acid,Metabolism
+tibolone,Signaling by ERBB4
+tic10,Apoptosis
+ticagrelor,Hemostasis
+ticlopidine,Hemostasis
+tideglusib,Maturation of nucleoprotein
+tie2-kinase-inhibitor,Signal Transduction
+tienilic-acid,Metabolism
+tifenazoxide,Neuronal System
+tiludronate,Signal Transduction
+timofibrate,Developmental Biology
+timolol,Signal Transduction
+timonacic,Hemostasis
+tioconazole,Developmental Biology
+tiotidine,Signal Transduction
+tiotropium,Signal Transduction
+tioxolone,Erythrocytes take up carbon dioxide and release oxygen
+tipifarnib,Antimicrobial mechanism of IFN-stimulated genes
+tipiracil,Metabolism
+tiplaxtinin,Hemostasis
+tiprenolol,Signal Transduction
+tiracizine,Developmental Biology
+tiratricol,Generic Transcription Pathway
+tirofiban,Hemostasis
+tivantinib,PIP3 activates AKT signaling
+tivozanib,Signal Transduction
+tizanidine,Signal Transduction
+tl-1-85,Unknown
+tl-2-105,Unknown
+tmn-355,Hemostasis
+tnp-470,Visual phototransduction
+tocainide,Developmental Biology
+toceranib,Signal Transduction
+tofacitinib,Cytokine Signaling in Immune system
+tofisopam,Signal Transduction
+tofogliflozin,Developmental Biology
+tolamolol,Signal Transduction
+tolazamide,Neuronal System
+tolazoline,Signal Transduction
+tolbutamide,Neuronal System
+tolcapone,Neurotransmitter clearance
+tolimidone,Hemostasis
+tolmetin,Metabolism
+tolonidine,Hemostasis
+toloxatone,Amine Oxidase reactions
+tolperisone,Metabolism
+tolrestat,Metabolism
+tolterodine,Signal Transduction
+tolvaptan,Signal Transduction
+tomelukast,Signal Transduction
+topiramate,Neurotransmitter receptors and postsynaptic signal transmission
+topiroxostat,Adaptive Immune System
+topotecan,SUMOylation
+torasemide,Disease
+torcetrapib,Signal Transduction
+torcitabine,Metabolism
+toremifene,Signaling by ERBB4
+torin 2,Unknown
+torin-1,PIP3 activates AKT signaling
+torin-2,PIP3 activates AKT signaling
+torin2,Disease
+tosedostat,Immune System
+toyocamycin,Cellular responses to stress
+tozadenant,Signal Transduction
+tozasertib,Cell Cycle
+tp-003,Neurotransmitter receptors and postsynaptic signal transmission
+tp-0903,Signal Transduction
+tpca-1,Downstream signaling events of B Cell Receptor (BCR)
+tracazolate,Neurotransmitter receptors and postsynaptic signal transmission
+tram-39,Neuronal System
+tramadol,Signal Transduction
+trametinib,RAF-independent MAPK1/3 activation
+tramiprosate,Hemostasis
+trandolapril,Metabolism of Angiotensinogen to Angiotensins
+tranexamic-acid,Hemostasis
+tranilast,Metabolism
+tranylcypromine,Disease
+trap-101,Signal Transduction
+trapidil,PIP3 activates AKT signaling
+travoprost,Signal Transduction
+traxoprodil,Neurotransmitter receptors and postsynaptic signal transmission
+trazodone,Signal Transduction
+trelagliptin,Peptide hormone metabolism
+trepibutone,Signal Transduction
+treprostinil,Signal Transduction
+trequinsin,Hemostasis
+tretazicar,Metabolism
+tretinoin,Generic Transcription Pathway
+triamcinolone,Signal Transduction
+triamcinolone-acetonide,Signal Transduction
+triamterene,Stimuli-sensing channels
+triapine,Metabolism
+triazolam,Neurotransmitter receptors and postsynaptic signal transmission
+trichlormethiazide,Transport of small molecules
+trichostatin a,Unknown
+trichostatin-a,Signaling by NOTCH
+triciribine,Apoptosis
+triclabendazole,Signal Transduction
+triclosan,Signal Transduction
+tridihexethyl,Signal Transduction
+trientine,Metabolism
+trifluoperazine,Signal Transduction
+triflupromazine,Signal Transduction
+trifluridine,Metabolism
+triflusal,Cytokine Signaling in Immune system
+trihexyphenidyl,Signal Transduction
+trilostane,PIP3 activates AKT signaling
+trimebutine,Signal Transduction
+trimetazidine,Metabolism
+trimethobenzamide,Signal Transduction
+trimethoprim,Metabolism
+trimethoquinol,Signal Transduction
+trimetrexate,Metabolism
+trimipramine,Signal Transduction
+tripelennamine,Signal Transduction
+triprolidine,Signal Transduction
+triptolide,Downstream signaling events of B Cell Receptor (BCR)
+triptorelin,Signal Transduction
+troglitazone,Metabolism
+trometamol,Disease
+"tropanyl-3,5-dimethylbenzoate",Neurotransmitter receptors and postsynaptic signal transmission
+tropesin,Metabolism
+tropicamide,Signal Transduction
+tropisetron,Neurotransmitter receptors and postsynaptic signal transmission
+trospium,Signal Transduction
+trovafloxacin,Transcription of E2F targets under negative control by DREAM complex
+trv130,Opioid Signalling
+tryptanthrin,Metabolism
+tryptophan,Signal Transduction
+ttk_3146,Unknown
+ttnpb,Developmental Biology
+ttp-22,PIP3 activates AKT signaling
+tubastatin a,Signaling by NOTCH
+tubastatin-a,Signaling by NOTCH
+tubocurarine,Neuronal System
+tucatinib,Signaling by ERBB2
+tug-770,Metabolism
+tug-891,Signal Transduction
+tulobuterol,Signal Transduction
+tw 37,Cytokine Signaling in Immune system
+tw-37,Cytokine Signaling in Immune system
+tws-119,Developmental Biology
+tws119,Unknown
+ty-52156,Signal Transduction
+tyloxapol,Developmental Biology
+tyrphostin-ag-1296,PI3K Cascade
+tyrphostin-ag-1478,Developmental Biology
+tyrphostin-ag-18,Signaling by ERBB2
+tyrphostin-ag-494,Signaling by ERBB2
+tyrphostin-ag-825,Signaling by ERBB2
+tyrphostin-ag-835,Signaling by ERBB2
+tyrphostin-ag-879,Signal Transduction
+tyrphostin-ag-99,Signaling by ERBB2
+u-0126,Signal Transduction
+u-0521,Neurotransmitter clearance
+u-104,Metabolism
+u-50488-(-),Signal Transduction
+u-54494a,Signal Transduction
+u-75799e,Signal Transduction
+u-99194,Signal Transduction
+uamc-00039,Peptide hormone metabolism
+ub-165,Neurotransmitter receptors and postsynaptic signal transmission
+ubenimex,Metabolism
+ubp-296,Neurotransmitter receptors and postsynaptic signal transmission
+ubp-302,Neurotransmitter receptors and postsynaptic signal transmission
+ubp-310,Neurotransmitter receptors and postsynaptic signal transmission
+uc-112,Unknown
+uf-010,Signaling by NOTCH
+ufenamate,Metabolism
+uh-232-(+),Signal Transduction
+uk-356618,Collagen degradation
+uk-383367,Degradation of the extracellular matrix
+uk-5099,Hemostasis
+ulipristal,Signaling by ERBB4
+ulixertinib,Unknown
+ulk1_4989,Signal Transduction
+umeclidinium,Signal Transduction
+umi-77,Cytokine Signaling in Immune system
+unc-2327,RMTs methylate histone arginines
+unc-3230,PIP3 activates AKT signaling
+unc-926,Generic Transcription Pathway
+unc0224,Epigenetic regulation of gene expression
+unc0321,Epigenetic regulation of gene expression
+unc0379,Unknown
+unc0631,Epigenetic regulation of gene expression
+unc0638,Epigenetic regulation of gene expression
+unc0642,Epigenetic regulation of gene expression
+unc0646,Epigenetic regulation of gene expression
+unc0737,Epigenetic regulation of gene expression
+unc1215,Unknown
+unc1999,PIP3 activates AKT signaling
+unc2025,Disease
+unc2250,Hemostasis
+unc2327,RMTs methylate histone arginines
+unc3230,PIP3 activates AKT signaling
+unc669,Generic Transcription Pathway
+unc926,Generic Transcription Pathway
+upf-1069,POLB-Dependent Long Patch Base Excision Repair
+uprosertib,Apoptosis
+uracil,Metabolism
+urapidil,Signal Transduction
+urb597,Metabolism
+urea,Metabolism
+uric-acid,Metabolism
+uridine,Deadenylation-dependent mRNA decay
+urmc-099,Signal Transduction
+ursodiol,Metabolism
+ursolic-acid,Metabolism
+usniacin-(+),Hemostasis
+val,Metabolism
+valdecoxib,Metabolism
+valethamate,Signal Transduction
+valproic-acid,Developmental Biology
+valrubicin,Transcription of E2F targets under negative control by DREAM complex
+valsartan,Signal Transduction
+vandetanib,Developmental Biology
+vanillin,Neurotransmitter release cycle
+vanoxerine,Defective SLC6A3 causes Parkinsonism-dystonia infantile (PKDYS)
+vardenafil,Signal Transduction
+varenicline,Neurotransmitter receptors and postsynaptic signal transmission
+varespladib,Metabolism
+vasopressin,Signal Transduction
+vatalanib,Signal Transduction
+vby-825,Adaptive Immune System
+ve-821,Meiotic synapsis
+ve-822,Disease
+ve821,Meiotic synapsis
+vecuronium,Neurotransmitter receptors and postsynaptic signal transmission
+vedaprofen,Cytokine Signaling in Immune system
+veliflapon,Metabolism
+veliparib,POLB-Dependent Long Patch Base Excision Repair
+velneperit,Signal Transduction
+vemurafenib,Signal Transduction
+venetoclax,Apoptosis
+venlafaxine,Transport of small molecules
+venotoclax,Unknown
+ver-155008,Antimicrobial mechanism of IFN-stimulated genes
+ver-49009,Signaling by ERBB2
+verapamil,Neuronal System
+vercirnon,Signal Transduction
+verinurad,Disease
+vernakalant,Neuronal System
+verubulin,Cell Cycle
+vesamicol,Neurotransmitter release cycle
+vesnarinone,Neuronal System
+vgx-1027,Apoptosis
+vicriviroc,Cytokine Signaling in Immune system
+vidarabine,Metabolism
+vigabatrin,Transmission across Chemical Synapses
+vilazodone,Signal Transduction
+vildagliptin,Peptide hormone metabolism
+viloxazine,Disease
+vinblastine,Disease
+vinburnine,Signal Transduction
+vincamine,Signal Transduction
+vincristine,Cell Cycle
+vindesine,Cell Cycle
+vinorelbine,Cell Cycle
+vinpocetine,Opioid Signalling
+vipadenant,Signal Transduction
+vismodegib,Signal Transduction
+vlx-600,Cytokine Signaling in Immune system
+vlx600,Cytokine Signaling in Immune system
+vnlg/124,Unknown
+voglibose,Innate Immune System
+volasertib,Developmental Biology
+volinanserin,Signal Transduction
+vonoprazan,Transport of small molecules
+vorapaxar,Hemostasis
+voreloxin,Transcription of E2F targets under negative control by DREAM complex
+voriconazole,Metabolism
+vorinostat,Signaling by NOTCH
+vortioxetine,Signal Transduction
+voxtalisib,PIP3 activates AKT signaling
+vp-20629,Metabolism
+vsp34_8731,Unknown
+vt-464,Metabolism
+vtp-27999,Metabolism of Angiotensinogen to Angiotensins
+vu-0240551,Transport of small molecules
+vu-0364739,Metabolism
+vu-0422288,Signal Transduction
+vu0155069,Metabolism
+vu0238429,Signal Transduction
+vu0240551,Transport of small molecules
+vu0357121,Neuronal System
+vu0360172,Neuronal System
+vu0361737,Signal Transduction
+vu0364439,Signal Transduction
+vu0364739,Metabolism
+vu0364770,Signal Transduction
+vu0422288,Signal Transduction
+vu10010,Signal Transduction
+vu152100,Signal Transduction
+vu1545,Neuronal System
+vu29,Neuronal System
+vu591,Neuronal System
+vuf10166,Neurotransmitter receptors and postsynaptic signal transmission
+vuf10460,Signal Transduction
+vuf11207,Signal Transduction
+vx-11e,Apoptosis
+vx-702,Immune System
+vx-745,Developmental Biology
+vx-765,Antimicrobial mechanism of IFN-stimulated genes
+w-54011,Signal Transduction
+warfarin,Metabolism
+way-100635,Signal Transduction
+way-161503,Signal Transduction
+way-170523,Collagen degradation
+way-200070,PIP3 activates AKT signaling
+way-207024,Signal Transduction
+way-208466,Signal Transduction
+way-213613,Neurotransmitter release cycle
+way-316606,Signal Transduction
+way-362450,Metabolism
+way-600,PIP3 activates AKT signaling
+way-629,Signal Transduction
+wb-4101,Signal Transduction
+wdr5-0103,Developmental Biology
+wee1 inhibitor,Cell Cycle
+wehi-539,Unknown
+wh-4-023,Hemostasis
+whi-p154,Signal Transduction
+whi-p97,Interleukin-7 signaling
+wiki4,PIP3 activates AKT signaling
+win-18446,Signal Transduction
+win-64338,Signal Transduction
+wiskostatin,Developmental Biology
+wnt-c59,Signal Transduction
+wortmannin,Metabolism
+wp1066,Interleukin-6 signaling
+wp1130,Signal Transduction
+wr99210,Metabolism
+wwl-113,Metabolism
+wwl-123,Hemostasis
+wye-125132,PIP3 activates AKT signaling
+wye-354,PIP3 activates AKT signaling
+wye-687,PIP3 activates AKT signaling
+wz-1-84,Apoptosis
+wz-3146,Signaling by ERBB2
+wz-4002,Signaling by ERBB2
+wz3105,Signal Transduction
+wz4003,Generic Transcription Pathway
+wz8040,Signaling by ERBB2
+wz811,Developmental Biology
+xaliproden,Signal Transduction
+xamoterol,Signal Transduction
+xanomeline,Signal Transduction
+xav-939,PIP3 activates AKT signaling
+xav939,PIP3 activates AKT signaling
+xbd173,Metabolism
+xd-14,Generic Transcription Pathway
+xe-991,Neuronal System
+xipamide,Disease
+xl-147,PIP3 activates AKT signaling
+xl-647,Signal Transduction
+xl019,Cytokine Signaling in Immune system
+xl147,PIP3 activates AKT signaling
+xl228,Signal Transduction
+xl388,PIP3 activates AKT signaling
+xl647,Signal Transduction
+xmd11-50,Signal Transduction
+xmd11-85h,Signal Transduction
+xmd13-2,Unknown
+xmd14-99,Signal Transduction
+xmd15-27,Unknown
+xmd17-109,Developmental Biology
+xmd8-85,Unknown
+xmd8-92,Developmental Biology
+xylazine,Hemostasis
+xylometazoline,Signal Transduction
+y-11,Apoptosis
+y-134,PIP3 activates AKT signaling
+y-26763,Neuronal System
+y-27152,Neuronal System
+y-27632,Signal Transduction
+y-29794,Unknown
+y-320,Cytokine Signaling in Immune system
+y-39983,Developmental Biology
+yc-1,Hemostasis
+yil-781,Signal Transduction
+yk-4-279,Developmental Biology
+ym-022,Signal Transduction
+ym-155,Cytokine Signaling in Immune system
+ym-298198,Neuronal System
+ym-298198-desmethyl,Neuronal System
+ym-511,Metabolism
+ym-58483,Stimuli-sensing channels
+ym-750,"Plasma lipoprotein assembly, remodeling, and clearance"
+ym-90709,Cytokine Signaling in Immune system
+ym-976,Opioid Signalling
+ym022,Signal Transduction
+ym201636,Metabolism
+yoda-1,Cellular responses to stimuli
+yohimbine,Signal Transduction
+yz9,Hemostasis
+z-llnle-cho,Unknown
+z160,Presynaptic depolarization and calcium channel opening
+zacopride,Neurotransmitter receptors and postsynaptic signal transmission
+zafirlukast,Signal Transduction
+zaldaride,Hemostasis
+zaleplon,Neurotransmitter receptors and postsynaptic signal transmission
+zaltidine,Signal Transduction
+zamifenacin,Metabolism
+zanamivir,Metabolism
+zaprinast,Signal Transduction
+zardaverine,Opioid Signalling
+zatebradine,Neuronal System
+zcl-278,Hemostasis
+zd-2079,Signal Transduction
+zd-7114,Signal Transduction
+zd-7155,Signal Transduction
+zd-7288,Neuronal System
+zebularine,Metabolism
+zg-10,Unknown
+zibotentan,Signal Transduction
+zidovudine,Developmental Biology
+zileuton,Cytokine Signaling in Immune system
+zilpaterol,Signal Transduction
+zimelidine,Neurotransmitter clearance
+ziprasidone,Signal Transduction
+zk-164015,PIP3 activates AKT signaling
+zk-811752,Cytokine Signaling in Immune system
+zk-93423,Neurotransmitter receptors and postsynaptic signal transmission
+zk-93426,Neurotransmitter receptors and postsynaptic signal transmission
+zk811752,Cytokine Signaling in Immune system
+zl109,Unknown
+zln024,Neurotransmitter receptors and postsynaptic signal transmission
+zm-241385,Signal Transduction
+zm-306416,Signal Transduction
+zm-323881,Extracellular matrix organization
+zm-336372,Signal Transduction
+zm-39923,Interleukin-7 signaling
+zm-447439,Cell Cycle
+zm447439,Cell Cycle
+zofenopril-calcium,Metabolism of Angiotensinogen to Angiotensins
+zoledronic-acid,Metabolism
+zolmitriptan,Signal Transduction
+zolpidem,Neurotransmitter receptors and postsynaptic signal transmission
+zomepirac,Signal Transduction
+zoniporide,Metabolism
+zonisamide,Developmental Biology
+zosuquidar,Transport of small molecules
+zotarolimus,Downstream signaling events of B Cell Receptor (BCR)
+zotepine,Signal Transduction
+zstk-474,PIP3 activates AKT signaling
+zstk474,Unknown
+zuclopenthixol,Signal Transduction
