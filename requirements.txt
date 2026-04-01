@@ -1,1 +1,8 @@
-
+streamlit
+pandas
+numpy
+networkx
+plotly
+torch
+torch-scatter
+kaleido
