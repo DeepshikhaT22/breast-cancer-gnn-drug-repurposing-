@@ -11,11 +11,12 @@ import torch.nn.functional as F
 import io
 import json
 
-def scatter_mean(src, index, dim_size):
+def scatter_mean(src, index, dim_size, dim=0):
     """
     src: tensor of shape [num_edges, hidden_dim]
     index: tensor of shape [num_edges] (destination node indices)
     dim_size: number of destination nodes
+    dim: ignored (kept for compatibility)
     Returns: tensor of shape [dim_size, hidden_dim] where each node gets the mean of messages from its neighbors
     """
     # Sum messages per destination
